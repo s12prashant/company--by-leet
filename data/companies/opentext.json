@@ -1,0 +1,117 @@
+{
+  "name": "opentext",
+  "slug": "opentext",
+  "domain": "opentext.com",
+  "logo": "/logos/opentext.png",
+  "questions": [
+    {
+      "title": "Largest 3-Same-Digit Number in String",
+      "slug": "largest-3-same-digit-number-in-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+      "frequency": 100,
+      "acceptance": 72.7,
+      "topics": [
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Filter Characters by Frequency",
+      "slug": "filter-characters-by-frequency",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/filter-characters-by-frequency",
+      "frequency": 100,
+      "acceptance": 86.4,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 83.7,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 67.4,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 67.4,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find the Winner of the Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+      "frequency": 67.4,
+      "acceptance": 82.4,
+      "topics": [
+        "Array",
+        "Math",
+        "Recursion",
+        "Queue",
+        "Simulation"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Defuse the Bomb",
+      "slug": "defuse-the-bomb",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/defuse-the-bomb",
+      "frequency": 67.4,
+      "acceptance": 79.6,
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

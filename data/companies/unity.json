@@ -1,0 +1,41 @@
+{
+  "name": "Unity",
+  "slug": "unity",
+  "domain": "unity.com",
+  "logo": "/logos/unity.png",
+  "questions": [
+    {
+      "title": "Number of Subarrays With LCM Equal to K",
+      "slug": "number-of-subarrays-with-lcm-equal-to-k",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k",
+      "frequency": 100,
+      "acceptance": 48,
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+      "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "frequency": 90.4,
+      "acceptance": 63.2,
+      "topics": [
+        "Math",
+        "String",
+        "Greedy",
+        "Game Theory"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

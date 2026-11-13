@@ -1,0 +1,74 @@
+{
+  "name": "Nielsen",
+  "slug": "nielsen",
+  "domain": "nielsen.com",
+  "logo": "/logos/nielsen.png",
+  "questions": [
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 100,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/multiply-strings",
+      "frequency": 100,
+      "acceptance": 44.9,
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Swap",
+      "slug": "maximum-swap",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-swap",
+      "frequency": 100,
+      "acceptance": 52.1,
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/jump-game",
+      "frequency": 88.4,
+      "acceptance": 41.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "name": "PayPay",
+  "slug": "paypay",
+  "domain": "paypay.ne.jp",
+  "logo": "/logos/paypay.png",
+  "questions": [
+    {
+      "title": "Largest 3-Same-Digit Number in String",
+      "slug": "largest-3-same-digit-number-in-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+      "frequency": 100,
+      "acceptance": 72.7,
+      "topics": [
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/block-placement-queries",
+      "frequency": 77,
+      "acceptance": 41,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Ordered Set"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/zigzag-conversion",
+      "frequency": 67.5,
+      "acceptance": 55.4,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Successful Pairs of Spells and Potions",
+      "slug": "successful-pairs-of-spells-and-potions",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions",
+      "frequency": 67.5,
+      "acceptance": 49.9,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Min Cost to Connect All Points",
+      "slug": "min-cost-to-connect-all-points",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+      "frequency": 67.5,
+      "acceptance": 71.9,
+      "topics": [
+        "Array",
+        "Union-Find",
+        "Graph Theory",
+        "Minimum Spanning Tree",
+        "Prim's Algorithm",
+        "Kruskal's Algorithm",
+        "Borůvka's Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 67.5,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+      "frequency": 67.5,
+      "acceptance": 66.6,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Ternary Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 67.5,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/decode-string",
+      "frequency": 67.5,
+      "acceptance": 63.4,
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "frequency": 67.5,
+      "acceptance": 45.8,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": []
+    }
+  ]
+}

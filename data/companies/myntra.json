@@ -1,0 +1,280 @@
+{
+  "name": "Myntra",
+  "slug": "myntra",
+  "domain": "myntra.com",
+  "logo": "/logos/myntra.jpg",
+  "questions": [
+    {
+      "title": "Maximum Earnings From Taxi",
+      "slug": "maximum-earnings-from-taxi",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-earnings-from-taxi",
+      "frequency": 100,
+      "acceptance": 47,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 73.3,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "frequency": 73.3,
+      "acceptance": 51.1,
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/target-sum",
+      "frequency": 73.3,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Knapsack Problem",
+        "0-1 Knapsack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Deepest Leaves Sum",
+      "slug": "deepest-leaves-sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/deepest-leaves-sum",
+      "frequency": 73.3,
+      "acceptance": 86.6,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-pivot-index",
+      "frequency": 73.3,
+      "acceptance": 64.1,
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "frequency": 63.5,
+      "acceptance": 44,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/3sum",
+      "frequency": 63.5,
+      "acceptance": 40.1,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Wiggle Sort",
+      "slug": "wiggle-sort",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/wiggle-sort",
+      "frequency": 63.5,
+      "acceptance": 68.5,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rotting-oranges",
+      "frequency": 63.5,
+      "acceptance": 59.6,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii",
+      "frequency": 63.5,
+      "acceptance": 62.5,
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "frequency": 63.5,
+      "acceptance": 61,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "frequency": 63.5,
+      "acceptance": 64,
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 63.5,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/generate-parentheses",
+      "frequency": 63.5,
+      "acceptance": 79.7,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "frequency": 63.5,
+      "acceptance": 47.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+      "frequency": 63.5,
+      "acceptance": 74.8,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

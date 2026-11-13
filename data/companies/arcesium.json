@@ -1,0 +1,240 @@
+{
+  "name": "Arcesium",
+  "slug": "arcesium",
+  "domain": "arcesium.com",
+  "logo": "/logos/arcesium.png",
+  "questions": [
+    {
+      "title": "Maximum Length of Subarray With Positive Product",
+      "slug": "maximum-length-of-subarray-with-positive-product",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+      "frequency": 100,
+      "acceptance": 44.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+      "frequency": 100,
+      "acceptance": 24.8,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Meet in the Middle",
+        "Sorting",
+        "Ordered Set",
+        "Bitmask"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count Collisions on a Road",
+      "slug": "count-collisions-on-a-road",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+      "frequency": 97.5,
+      "acceptance": 58,
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Cycle Length Queries in a Tree",
+      "slug": "cycle-length-queries-in-a-tree",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+      "frequency": 94.6,
+      "acceptance": 61.2,
+      "topics": [
+        "Array",
+        "Tree",
+        "Binary Tree",
+        "Binary Lifting",
+        "Lowest Common Ancestor"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximize the Confusion of an Exam",
+      "slug": "maximize-the-confusion-of-an-exam",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+      "frequency": 94.6,
+      "acceptance": 70.7,
+      "topics": [
+        "String",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of People Aware of a Secret",
+      "slug": "number-of-people-aware-of-a-secret",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "frequency": 94.6,
+      "acceptance": 60.6,
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "House Robber IV",
+      "slug": "house-robber-iv",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/house-robber-iv",
+      "frequency": 91.4,
+      "acceptance": 64.5,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Swaps to Group All 1's Together II",
+      "slug": "minimum-swaps-to-group-all-1s-together-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+      "frequency": 71.1,
+      "acceptance": 65.8,
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "frequency": 61.4,
+      "acceptance": 47.9,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "frequency": 61.4,
+      "acceptance": 55.1,
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Russian Doll Envelopes",
+      "slug": "russian-doll-envelopes",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/russian-doll-envelopes",
+      "frequency": 61.4,
+      "acceptance": 38.3,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting",
+        "Longest Increasing Subsequence"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "frequency": 61.4,
+      "acceptance": 47.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sudoku-solver",
+      "frequency": 61.4,
+      "acceptance": 65.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Matrix",
+        "Algorithm X",
+        "Dancing Links"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Beautiful Towers II",
+      "slug": "beautiful-towers-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/beautiful-towers-ii",
+      "frequency": 61.4,
+      "acceptance": 37,
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

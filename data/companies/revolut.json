@@ -1,0 +1,174 @@
+{
+  "name": "Revolut",
+  "slug": "revolut",
+  "domain": "revolut.com",
+  "logo": "/logos/revolut.png",
+  "questions": [
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 100,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/perfect-squares",
+      "frequency": 93.4,
+      "acceptance": 57,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Knapsack Problem",
+        "Complete Knapsack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+      "frequency": 89.2,
+      "acceptance": 52.6,
+      "topics": [
+        "Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/binary-tree-paths",
+      "frequency": 89.2,
+      "acceptance": 69.5,
+      "topics": [
+        "String",
+        "Backtracking",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "frequency": 84,
+      "acceptance": 60.1,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Longest Increasing Subsequence"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "frequency": 77.4,
+      "acceptance": 54.7,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Restaurant Growth",
+      "slug": "restaurant-growth",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/restaurant-growth",
+      "frequency": 77.4,
+      "acceptance": 60.2,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Subarray Product Less Than K",
+      "slug": "subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "frequency": 77.4,
+      "acceptance": 54.9,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/missing-number",
+      "frequency": 68,
+      "acceptance": 72.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/simple-bank-system",
+      "frequency": 68,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

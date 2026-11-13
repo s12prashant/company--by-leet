@@ -1,0 +1,256 @@
+{
+  "name": "Wayfair",
+  "slug": "wayfair",
+  "domain": "wayfair.com",
+  "logo": "/logos/wayfair.png",
+  "questions": [
+    {
+      "title": "Best Sightseeing Pair",
+      "slug": "best-sightseeing-pair",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/best-sightseeing-pair",
+      "frequency": 100,
+      "acceptance": 62.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Design A Leaderboard",
+      "slug": "design-a-leaderboard",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-a-leaderboard",
+      "frequency": 97,
+      "acceptance": 68,
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "frequency": 97,
+      "acceptance": 46.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+      "frequency": 97,
+      "acceptance": 64.4,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Delete Characters to Make Fancy String",
+      "slug": "delete-characters-to-make-fancy-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/delete-characters-to-make-fancy-string",
+      "frequency": 97,
+      "acceptance": 74,
+      "topics": [
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Moves to Reach Target Score",
+      "slug": "minimum-moves-to-reach-target-score",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-score",
+      "frequency": 97,
+      "acceptance": 52.7,
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Happy String",
+      "slug": "longest-happy-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-happy-string",
+      "frequency": 97,
+      "acceptance": 65.6,
+      "topics": [
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Largest Magic Square",
+      "slug": "largest-magic-square",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/largest-magic-square",
+      "frequency": 97,
+      "acceptance": 75.2,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Tournament Winners",
+      "slug": "tournament-winners",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/tournament-winners",
+      "frequency": 97,
+      "acceptance": 50.3,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Team Scores in Football Tournament",
+      "slug": "team-scores-in-football-tournament",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+      "frequency": 97,
+      "acceptance": 55.7,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Divisible Substrings",
+      "slug": "number-of-divisible-substrings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+      "frequency": 89.8,
+      "acceptance": 74.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/add-strings",
+      "frequency": 72.5,
+      "acceptance": 52.3,
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "frequency": 62.4,
+      "acceptance": 54.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Last Person to Fit in the Bus",
+      "slug": "last-person-to-fit-in-the-bus",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+      "frequency": 62.4,
+      "acceptance": 70.3,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "frequency": 62.4,
+      "acceptance": 49.4,
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Time Needed to Rearrange a Binary String",
+      "slug": "time-needed-to-rearrange-a-binary-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string",
+      "frequency": 62.4,
+      "acceptance": 53.8,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Least Number of Unique Integers after K Removals",
+      "slug": "least-number-of-unique-integers-after-k-removals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+      "frequency": 62.4,
+      "acceptance": 64,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

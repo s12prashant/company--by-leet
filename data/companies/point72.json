@@ -1,0 +1,85 @@
+{
+  "name": "Point72",
+  "slug": "point72",
+  "domain": "point72.com",
+  "logo": "/logos/point72.png",
+  "questions": [
+    {
+      "title": "Top Travellers",
+      "slug": "top-travellers",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/top-travellers",
+      "frequency": 100,
+      "acceptance": 58.1,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Weather Type in Each Country",
+      "slug": "weather-type-in-each-country",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/weather-type-in-each-country",
+      "frequency": 100,
+      "acceptance": 67.1,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Evaluate Boolean Expression",
+      "slug": "evaluate-boolean-expression",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/evaluate-boolean-expression",
+      "frequency": 100,
+      "acceptance": 71.6,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Restaurant Growth",
+      "slug": "restaurant-growth",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/restaurant-growth",
+      "frequency": 100,
+      "acceptance": 60.2,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Replace Employee ID With The Unique Identifier",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+      "frequency": 100,
+      "acceptance": 83.9,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum OR",
+      "slug": "maximum-or",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-or",
+      "frequency": 67.6,
+      "acceptance": 43.2,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Bit Manipulation",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

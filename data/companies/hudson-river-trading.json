@@ -1,0 +1,240 @@
+{
+  "name": "Hudson River Trading",
+  "slug": "hudson-river-trading",
+  "domain": "hudsonrivertrading.com",
+  "logo": "/logos/hudson-river-trading.png",
+  "questions": [
+    {
+      "title": "Detect Pattern of Length M Repeated K or More Times",
+      "slug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+      "frequency": 100,
+      "acceptance": 44.3,
+      "topics": [
+        "Array",
+        "Enumeration"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Convert Integer to the Sum of Two No-Zero Integers",
+      "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+      "frequency": 100,
+      "acceptance": 59.1,
+      "topics": [
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Score From Grid Operations",
+      "slug": "maximum-score-from-grid-operations",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+      "frequency": 100,
+      "acceptance": 63.3,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Largest Combination With Bitwise AND Greater Than Zero",
+      "slug": "largest-combination-with-bitwise-and-greater-than-zero",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+      "frequency": 100,
+      "acceptance": 80.7,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Add Edges to Make Degrees of All Nodes Even",
+      "slug": "add-edges-to-make-degrees-of-all-nodes-even",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+      "frequency": 97.1,
+      "acceptance": 37.4,
+      "topics": [
+        "Hash Table",
+        "Graph Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Path With Different Adjacent Characters",
+      "slug": "longest-path-with-different-adjacent-characters",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+      "frequency": 97.1,
+      "acceptance": 54,
+      "topics": [
+        "Array",
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Total Importance of Roads",
+      "slug": "maximum-total-importance-of-roads",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-total-importance-of-roads",
+      "frequency": 97.1,
+      "acceptance": 69.2,
+      "topics": [
+        "Greedy",
+        "Graph Theory",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+      "frequency": 97.1,
+      "acceptance": 85.9,
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/maximum-69-number",
+      "frequency": 97.1,
+      "acceptance": 84.6,
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Apply Operations to Make All Array Elements Equal to Zero",
+      "slug": "apply-operations-to-make-all-array-elements-equal-to-zero",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero",
+      "frequency": 97.1,
+      "acceptance": 33.3,
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Count Unguarded Cells in the Grid",
+      "slug": "count-unguarded-cells-in-the-grid",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+      "frequency": 97.1,
+      "acceptance": 69.2,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/block-placement-queries",
+      "frequency": 72.6,
+      "acceptance": 41,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Ordered Set"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 62.5,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/text-justification",
+      "frequency": 62.5,
+      "acceptance": 52.5,
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Memory Allocator",
+      "slug": "design-memory-allocator",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-memory-allocator",
+      "frequency": 62.5,
+      "acceptance": 51,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Shortest Word Distance",
+      "slug": "shortest-word-distance",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/shortest-word-distance",
+      "frequency": 62.5,
+      "acceptance": 66.4,
+      "topics": [
+        "Array",
+        "String"
+      ],
+      "periods": []
+    }
+  ]
+}

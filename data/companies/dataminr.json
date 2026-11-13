@@ -1,0 +1,36 @@
+{
+  "name": "Dataminr",
+  "slug": "dataminr",
+  "domain": "dataminr.com",
+  "logo": "/logos/dataminr.png",
+  "questions": [
+    {
+      "title": "Spiral Matrix III",
+      "slug": "spiral-matrix-iii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/spiral-matrix-iii",
+      "frequency": 100,
+      "acceptance": 84.6,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Building Height",
+      "slug": "maximum-building-height",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-building-height",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "periods": []
+    }
+  ]
+}

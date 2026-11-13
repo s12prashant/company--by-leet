@@ -1,0 +1,247 @@
+{
+  "name": "Intel",
+  "slug": "intel",
+  "domain": "intel.com",
+  "logo": "/logos/intel.png",
+  "questions": [
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 100,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Consecutive Integers from a Data Stream",
+      "slug": "find-consecutive-integers-from-a-data-stream",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+      "frequency": 100,
+      "acceptance": 51.9,
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Queue",
+        "Counting",
+        "Data Stream"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses",
+      "frequency": 100,
+      "acceptance": 86.1,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 88.3,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+      "frequency": 75.6,
+      "acceptance": 63.9,
+      "topics": [
+        "Hash Table",
+        "Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "frequency": 75.6,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "frequency": 75.6,
+      "acceptance": 61,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 65.6,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "frequency": 65.6,
+      "acceptance": 68.4,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 65.6,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "frequency": 65.6,
+      "acceptance": 61,
+      "topics": [
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "frequency": 65.6,
+      "acceptance": 54,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/min-stack",
+      "frequency": 65.6,
+      "acceptance": 58.8,
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/majority-element-ii",
+      "frequency": 65.6,
+      "acceptance": 56.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/linked-list-cycle",
+      "frequency": 65.6,
+      "acceptance": 55.2,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "periods": []
+    }
+  ]
+}

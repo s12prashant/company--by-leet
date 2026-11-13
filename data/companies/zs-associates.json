@@ -1,0 +1,83 @@
+{
+  "name": "ZS Associates",
+  "slug": "zs-associates",
+  "domain": "zs.com",
+  "logo": "/logos/zs-associates.png",
+  "questions": [
+    {
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "frequency": 100,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "frequency": 100,
+      "acceptance": 48.8,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 88.4,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+      "frequency": 88.4,
+      "acceptance": 39.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Department Top Three Salaries",
+      "slug": "department-top-three-salaries",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/department-top-three-salaries",
+      "frequency": 88.4,
+      "acceptance": 62.2,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    }
+  ]
+}

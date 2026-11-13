@@ -1,0 +1,42 @@
+{
+  "name": "CME Group",
+  "slug": "cme-group",
+  "domain": "cmegroup.com",
+  "logo": "/logos/cme-group.png",
+  "questions": [
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 100,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/gas-station",
+      "frequency": 100,
+      "acceptance": 48.9,
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "BlackStone",
+  "slug": "blackstone",
+  "domain": "blackstone.com",
+  "logo": "/logos/blackstone.png",
+  "questions": [
+    {
+      "title": "Reaching Points",
+      "slug": "reaching-points",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reaching-points",
+      "frequency": 100,
+      "acceptance": 34.8,
+      "topics": [
+        "Math",
+        "Euclidean Algorithm",
+        "Greatest Common Divisor"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Make The String Great",
+      "slug": "make-the-string-great",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/make-the-string-great",
+      "frequency": 83.4,
+      "acceptance": 68.8,
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

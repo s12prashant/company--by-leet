@@ -1,0 +1,33 @@
+{
+  "name": "Zendesk",
+  "slug": "zendesk",
+  "domain": "zendesk.com",
+  "logo": "/logos/zendesk.jpg",
+  "questions": [
+    {
+      "title": "Categorize Box According to Criteria",
+      "slug": "categorize-box-according-to-criteria",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/categorize-box-according-to-criteria",
+      "frequency": 100,
+      "acceptance": 41.1,
+      "topics": [
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Distribute Money to Maximum Children",
+      "slug": "distribute-money-to-maximum-children",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+      "frequency": 100,
+      "acceptance": 20.9,
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "periods": []
+    }
+  ]
+}

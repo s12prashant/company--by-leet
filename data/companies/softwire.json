@@ -1,0 +1,38 @@
+{
+  "name": "Softwire",
+  "slug": "softwire",
+  "domain": "softwire.com",
+  "logo": "/logos/softwire.png",
+  "questions": [
+    {
+      "title": "Second Largest Digit in a String",
+      "slug": "second-largest-digit-in-a-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/second-largest-digit-in-a-string",
+      "frequency": 100,
+      "acceptance": 55.5,
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 80.2,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

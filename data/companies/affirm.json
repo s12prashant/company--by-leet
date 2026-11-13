@@ -1,0 +1,178 @@
+{
+  "name": "Affirm",
+  "slug": "affirm",
+  "domain": "affirm.com",
+  "logo": "/logos/affirm.png",
+  "questions": [
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "frequency": 100,
+      "acceptance": 55.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Shortest Uncommon Substring in an Array",
+      "slug": "shortest-uncommon-substring-in-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "frequency": 87.5,
+      "acceptance": 51.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Parse Lisp Expression",
+      "slug": "parse-lisp-expression",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/parse-lisp-expression",
+      "frequency": 78.2,
+      "acceptance": 54.1,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+      "frequency": 69.3,
+      "acceptance": 37.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Hit Counter",
+      "slug": "design-hit-counter",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "frequency": 65,
+      "acceptance": 69.8,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "frequency": 59.5,
+      "acceptance": 73.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "frequency": 59.5,
+      "acceptance": 68.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "String Compression",
+      "slug": "string-compression",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-compression",
+      "frequency": 51.8,
+      "acceptance": 61,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/coin-change",
+      "frequency": 51.8,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Knapsack Problem",
+        "Complete Knapsack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Optimal Account Balancing",
+      "slug": "optimal-account-balancing",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/optimal-account-balancing",
+      "frequency": 51.8,
+      "acceptance": 50.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

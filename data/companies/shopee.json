@@ -1,0 +1,127 @@
+{
+  "name": "Shopee",
+  "slug": "shopee",
+  "domain": "shopee.com",
+  "logo": "/logos/shopee.ico",
+  "questions": [
+    {
+      "title": "Count Pairs in Two Arrays",
+      "slug": "count-pairs-in-two-arrays",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "frequency": 100,
+      "acceptance": 60.3,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Random Pick with Weight",
+      "slug": "random-pick-with-weight",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "frequency": 77.7,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/jump-game",
+      "frequency": 68.5,
+      "acceptance": 41.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 68.5,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Serialize and Deserialize BST",
+      "slug": "serialize-and-deserialize-bst",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+      "frequency": 68.5,
+      "acceptance": 60.1,
+      "topics": [
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 68.5,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/word-search",
+      "frequency": 68.5,
+      "acceptance": 48.3,
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "periods": []
+    }
+  ]
+}

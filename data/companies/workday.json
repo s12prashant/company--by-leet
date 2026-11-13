@@ -1,0 +1,92 @@
+{
+  "name": "Workday",
+  "slug": "workday",
+  "domain": "workday.com",
+  "logo": "/logos/workday.png",
+  "questions": [
+    {
+      "title": "Break a Palindrome",
+      "slug": "break-a-palindrome",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/break-a-palindrome",
+      "frequency": 100,
+      "acceptance": 51.6,
+      "topics": [
+        "String",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "frequency": 92.1,
+      "acceptance": 73.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "frequency": 92.1,
+      "acceptance": 61,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/permutations",
+      "frequency": 92.1,
+      "acceptance": 82.4,
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "frequency": 81,
+      "acceptance": 67.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

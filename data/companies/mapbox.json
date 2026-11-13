@@ -1,0 +1,23 @@
+{
+  "name": "Mapbox",
+  "slug": "mapbox",
+  "domain": "mapbox.com",
+  "logo": "/logos/mapbox.png",
+  "questions": [
+    {
+      "title": "Sort Integers by The Number of 1 Bits",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+      "frequency": 100,
+      "acceptance": 82.5,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": []
+    }
+  ]
+}

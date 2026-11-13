@@ -1,0 +1,97 @@
+{
+  "name": "GoDaddy",
+  "slug": "godaddy",
+  "domain": "godaddy.com",
+  "logo": "/logos/godaddy.png",
+  "questions": [
+    {
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/arranging-coins",
+      "frequency": 100,
+      "acceptance": 48.7,
+      "topics": [
+        "Math",
+        "Binary Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "String Compression",
+      "slug": "string-compression",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-compression",
+      "frequency": 97.4,
+      "acceptance": 61,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 86.9,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 75.5,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "slug": "minimum-degree-of-a-connected-trio-in-a-graph",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+      "frequency": 66.5,
+      "acceptance": 45,
+      "topics": [
+        "Graph Theory",
+        "Enumeration"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Ways to Make a Fair Array",
+      "slug": "ways-to-make-a-fair-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+      "frequency": 66.5,
+      "acceptance": 67.8,
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Coinbase",
+  "slug": "coinbase",
+  "domain": "coinbase.com",
+  "logo": "/logos/coinbase.png",
+  "questions": [
+    {
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/simple-bank-system",
+      "frequency": 100,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "frequency": 90.7,
+      "acceptance": 50.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Zigzag Iterator",
+      "slug": "zigzag-iterator",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/zigzag-iterator",
+      "frequency": 89.4,
+      "acceptance": 67.2,
+      "topics": [
+        "Array",
+        "Design",
+        "Queue",
+        "Iterator"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design In-Memory File System",
+      "slug": "design-in-memory-file-system",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "frequency": 80.7,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Decode the Message",
+      "slug": "decode-the-message",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/decode-the-message",
+      "frequency": 80.7,
+      "acceptance": 86,
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Random Pick with Weight",
+      "slug": "random-pick-with-weight",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "frequency": 72.7,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design File System",
+      "slug": "design-file-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-file-system",
+      "frequency": 51,
+      "acceptance": 65.2,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 51,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "frequency": 51,
+      "acceptance": 55.7,
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "frequency": 51,
+      "acceptance": 56.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimize Result by Adding Parentheses to Expression",
+      "slug": "minimize-result-by-adding-parentheses-to-expression",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression",
+      "frequency": 51,
+      "acceptance": 68.7,
+      "topics": [
+        "String",
+        "Enumeration"
+      ],
+      "periods": []
+    }
+  ]
+}

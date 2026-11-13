@@ -1,0 +1,24 @@
+{
+  "name": "Fiverr",
+  "slug": "fiverr",
+  "domain": "fiverr.com",
+  "logo": "/logos/fiverr.png",
+  "questions": [
+    {
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rotate-array",
+      "frequency": 100,
+      "acceptance": 45.7,
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

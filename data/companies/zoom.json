@@ -1,0 +1,67 @@
+{
+  "name": "Zoom",
+  "slug": "zoom",
+  "domain": "zoom.us",
+  "logo": "/logos/zoom.png",
+  "questions": [
+    {
+      "title": "User Activity for the Past 30 Days I",
+      "slug": "user-activity-for-the-past-30-days-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+      "frequency": 100,
+      "acceptance": 51.9,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "User Activity for the Past 30 Days II",
+      "slug": "user-activity-for-the-past-30-days-ii",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+      "frequency": 100,
+      "acceptance": 35.6,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "frequency": 78.4,
+      "acceptance": 39,
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Trie",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 69.5,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

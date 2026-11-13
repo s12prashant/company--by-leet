@@ -1,0 +1,73 @@
+{
+  "name": "EarnIn",
+  "slug": "earnin",
+  "domain": "earnin.com",
+  "logo": "/logos/earnin.png",
+  "questions": [
+    {
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "frequency": 100,
+      "acceptance": 49.6,
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 83.7,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "frequency": 83.7,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 83.7,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

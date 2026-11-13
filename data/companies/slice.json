@@ -1,0 +1,26 @@
+{
+  "name": "Slice",
+  "slug": "slice",
+  "domain": "sliceit.com",
+  "logo": "/logos/slice.png",
+  "questions": [
+    {
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sort-colors",
+      "frequency": 100,
+      "acceptance": 70.3,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Quicksort",
+        "Bubble Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

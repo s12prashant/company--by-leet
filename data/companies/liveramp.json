@@ -1,0 +1,104 @@
+{
+  "name": "LiveRamp",
+  "slug": "liveramp",
+  "domain": "liveramp.com",
+  "logo": "/logos/liveramp.png",
+  "questions": [
+    {
+      "title": "Longest Harmonious Subsequence",
+      "slug": "longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+      "frequency": 100,
+      "acceptance": 65.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Distribute Candies",
+      "slug": "distribute-candies",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/distribute-candies",
+      "frequency": 97.4,
+      "acceptance": 71.8,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Shortest Unsorted Continuous Subarray",
+      "slug": "shortest-unsorted-continuous-subarray",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+      "frequency": 97.4,
+      "acceptance": 38.7,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Stack",
+        "Greedy",
+        "Sorting",
+        "Monotonic Stack"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Largest Time for Given Digits",
+      "slug": "largest-time-for-given-digits",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+      "frequency": 97.4,
+      "acceptance": 36.2,
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Enumeration"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule",
+      "frequency": 66.8,
+      "acceptance": 52.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "frequency": 66.8,
+      "acceptance": 50.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

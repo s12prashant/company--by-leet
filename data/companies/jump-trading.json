@@ -1,0 +1,40 @@
+{
+  "name": "Jump Trading",
+  "slug": "jump-trading",
+  "domain": "jumptrading.com",
+  "logo": "/logos/jump-trading.png",
+  "questions": [
+    {
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/happy-number",
+      "frequency": 100,
+      "acceptance": 60.4,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/permutation-sequence",
+      "frequency": 100,
+      "acceptance": 54.6,
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

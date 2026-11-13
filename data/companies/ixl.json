@@ -1,0 +1,286 @@
+{
+  "name": "IXL",
+  "slug": "ixl",
+  "domain": "ixl.com",
+  "logo": "/logos/ixl.png",
+  "questions": [
+    {
+      "title": "Range Addition II",
+      "slug": "range-addition-ii",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/range-addition-ii",
+      "frequency": 100,
+      "acceptance": 59.5,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "frequency": 94.7,
+      "acceptance": 55.1,
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/palindrome-linked-list",
+      "frequency": 92.6,
+      "acceptance": 59,
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "frequency": 90.2,
+      "acceptance": 60.8,
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort",
+        "Tournament Sort"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Fraction to Recurring Decimal",
+      "slug": "fraction-to-recurring-decimal",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+      "frequency": 90.2,
+      "acceptance": 31.6,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Stickers to Spell Word",
+      "slug": "stickers-to-spell-word",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/stickers-to-spell-word",
+      "frequency": 90.2,
+      "acceptance": 51.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Memoization",
+        "Bitmask"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 87.6,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Fraction Addition and Subtraction",
+      "slug": "fraction-addition-and-subtraction",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+      "frequency": 87.6,
+      "acceptance": 66.7,
+      "topics": [
+        "Math",
+        "String",
+        "Simulation",
+        "Euclidean Algorithm",
+        "Greatest Common Divisor"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find the Derangement of An Array",
+      "slug": "find-the-derangement-of-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-the-derangement-of-an-array",
+      "frequency": 87.6,
+      "acceptance": 41.6,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Basic Calculator II",
+      "slug": "basic-calculator-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/basic-calculator-ii",
+      "frequency": 77.2,
+      "acceptance": 47.3,
+      "topics": [
+        "Math",
+        "String",
+        "Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "frequency": 72.3,
+      "acceptance": 55.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "frequency": 72.3,
+      "acceptance": 47.3,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+      "slug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+      "frequency": 65.9,
+      "acceptance": 41.6,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "1-bit and 2-bit Characters",
+      "slug": "1-bit-and-2-bit-characters",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+      "frequency": 65.9,
+      "acceptance": 49.8,
+      "topics": [
+        "Array"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Snake Game",
+      "slug": "design-snake-game",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-snake-game",
+      "frequency": 57,
+      "acceptance": 40.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Queue",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Number of Steps to Make Two Strings Anagram",
+      "slug": "minimum-number-of-steps-to-make-two-strings-anagram",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+      "frequency": 57,
+      "acceptance": 82.6,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule",
+      "frequency": 57,
+      "acceptance": 52.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

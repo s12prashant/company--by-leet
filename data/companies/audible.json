@@ -1,0 +1,99 @@
+{
+  "name": "Audible",
+  "slug": "audible",
+  "domain": "audible.com",
+  "logo": "/logos/audible.png",
+  "questions": [
+    {
+      "title": "Missing Number In Arithmetic Progression",
+      "slug": "missing-number-in-arithmetic-progression",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+      "frequency": 100,
+      "acceptance": 52.2,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-absolute-difference",
+      "frequency": 100,
+      "acceptance": 75.2,
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Leetflex Banned Accounts",
+      "slug": "leetflex-banned-accounts",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/leetflex-banned-accounts",
+      "frequency": 100,
+      "acceptance": 61.6,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Reorganize String",
+      "slug": "reorganize-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reorganize-string",
+      "frequency": 77.8,
+      "acceptance": 57.7,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "frequency": 68.7,
+      "acceptance": 56.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/happy-number",
+      "frequency": 68.7,
+      "acceptance": 60.4,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

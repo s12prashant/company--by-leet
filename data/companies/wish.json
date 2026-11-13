@@ -1,0 +1,77 @@
+{
+  "name": "Wish",
+  "slug": "wish",
+  "domain": "wish.com",
+  "logo": "/logos/wish.png",
+  "questions": [
+    {
+      "title": "Find Servers That Handled Most Number of Requests",
+      "slug": "find-servers-that-handled-most-number-of-requests",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+      "frequency": 100,
+      "acceptance": 45.8,
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation",
+        "Ordered Set"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "frequency": 100,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Monthly Transactions I",
+      "slug": "monthly-transactions-i",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/monthly-transactions-i",
+      "frequency": 100,
+      "acceptance": 60.2,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Monthly Transactions II",
+      "slug": "monthly-transactions-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/monthly-transactions-ii",
+      "frequency": 100,
+      "acceptance": 42,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "frequency": 69.7,
+      "acceptance": 45.8,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

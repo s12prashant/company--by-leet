@@ -1,0 +1,23 @@
+{
+  "name": "Scale AI",
+  "slug": "scale-ai",
+  "domain": "scale.com",
+  "logo": "/logos/scale-ai.png",
+  "questions": [
+    {
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/gas-station",
+      "frequency": 100,
+      "acceptance": 48.9,
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

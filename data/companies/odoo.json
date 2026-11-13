@@ -1,0 +1,54 @@
+{
+  "name": "Odoo",
+  "slug": "odoo",
+  "domain": "odoo.com",
+  "logo": "/logos/odoo.png",
+  "questions": [
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 100,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/min-stack",
+      "frequency": 89.2,
+      "acceptance": 58.8,
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/majority-element",
+      "frequency": 89.2,
+      "acceptance": 66.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "periods": []
+    }
+  ]
+}

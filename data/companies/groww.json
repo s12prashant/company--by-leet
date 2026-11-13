@@ -1,0 +1,124 @@
+{
+  "name": "Groww",
+  "slug": "groww",
+  "domain": "groww.in",
+  "logo": "/logos/groww.png",
+  "questions": [
+    {
+      "title": "Minimum Number of Operations to Make X and Y Equal",
+      "slug": "minimum-number-of-operations-to-make-x-and-y-equal",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+      "frequency": 100,
+      "acceptance": 48.6,
+      "topics": [
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Memoization"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximize Score After N Operations",
+      "slug": "maximize-score-after-n-operations",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+      "frequency": 96.9,
+      "acceptance": 57.9,
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Number Theory",
+        "Bitmask"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 83.8,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Good Subarray Sum",
+      "slug": "maximum-good-subarray-sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-good-subarray-sum",
+      "frequency": 83.8,
+      "acceptance": 22.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Length of a Concatenated String with Unique Characters",
+      "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+      "frequency": 77,
+      "acceptance": 55,
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Bit Manipulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "frequency": 67.5,
+      "acceptance": 71.8,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Number of Events That Can Be Attended II",
+      "slug": "maximum-number-of-events-that-can-be-attended-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii",
+      "frequency": 67.5,
+      "acceptance": 63.4,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

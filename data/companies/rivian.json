@@ -1,0 +1,135 @@
+{
+  "name": "Rivian",
+  "slug": "rivian",
+  "domain": "rivian.com",
+  "logo": "/logos/rivian.png",
+  "questions": [
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "frequency": 100,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 100,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Degree of an Array",
+      "slug": "degree-of-an-array",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/degree-of-an-array",
+      "frequency": 92.3,
+      "acceptance": 58.8,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Flatten Deeply Nested Array",
+      "slug": "flatten-deeply-nested-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/flatten-deeply-nested-array",
+      "frequency": 81.4,
+      "acceptance": 66.3,
+      "topics": [],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "String Compression",
+      "slug": "string-compression",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-compression",
+      "frequency": 81.4,
+      "acceptance": 61,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "frequency": 81.4,
+      "acceptance": 60.8,
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort",
+        "Tournament Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Max Increase to Keep City Skyline",
+      "slug": "max-increase-to-keep-city-skyline",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/max-increase-to-keep-city-skyline",
+      "frequency": 81.4,
+      "acceptance": 86.5,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Basic Calculator II",
+      "slug": "basic-calculator-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/basic-calculator-ii",
+      "frequency": 81.4,
+      "acceptance": 47.3,
+      "topics": [
+        "Math",
+        "String",
+        "Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

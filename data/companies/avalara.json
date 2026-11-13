@@ -1,0 +1,21 @@
+{
+  "name": "Avalara",
+  "slug": "avalara",
+  "domain": "avalara.com",
+  "logo": "/logos/avalara.png",
+  "questions": [
+    {
+      "title": "Abbreviating the Product of a Range",
+      "slug": "abbreviating-the-product-of-a-range",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+      "frequency": 100,
+      "acceptance": 24.7,
+      "topics": [
+        "Math",
+        "Number Theory"
+      ],
+      "periods": []
+    }
+  ]
+}

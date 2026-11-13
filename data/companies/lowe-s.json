@@ -1,0 +1,88 @@
+{
+  "name": "Lowe's",
+  "slug": "lowe-s",
+  "domain": "lowes.com",
+  "logo": "/logos/lowe-s.png",
+  "questions": [
+    {
+      "title": "Find the Original Typed String I",
+      "slug": "find-the-original-typed-string-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-the-original-typed-string-i",
+      "frequency": 100,
+      "acceptance": 71.9,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Operations to Make Array Values Equal to K",
+      "slug": "minimum-operations-to-make-array-values-equal-to-k",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+      "frequency": 100,
+      "acceptance": 72.9,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "The Number of Good Subsets",
+      "slug": "the-number-of-good-subsets",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+      "frequency": 95.2,
+      "acceptance": 38.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Counting",
+        "Number Theory",
+        "Bitmask",
+        "Sieve Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Groups of Strings",
+      "slug": "groups-of-strings",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/groups-of-strings",
+      "frequency": 95.2,
+      "acceptance": 28.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Union-Find"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 65.1,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

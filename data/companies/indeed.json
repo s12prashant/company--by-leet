@@ -1,0 +1,79 @@
+{
+  "name": "Indeed",
+  "slug": "indeed",
+  "domain": "indeed.com",
+  "logo": "/logos/indeed.png",
+  "questions": [
+    {
+      "title": "Sum of Even Numbers After Queries",
+      "slug": "sum-of-even-numbers-after-queries",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+      "frequency": 100,
+      "acceptance": 69.1,
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Binary Tree Tilt",
+      "slug": "binary-tree-tilt",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/binary-tree-tilt",
+      "frequency": 97.4,
+      "acceptance": 66.7,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "DP on Trees"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Cost to Split an Array",
+      "slug": "minimum-cost-to-split-an-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+      "frequency": 97.4,
+      "acceptance": 45.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Dynamic Programming",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find Players With Zero or One Losses",
+      "slug": "find-players-with-zero-or-one-losses",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+      "frequency": 97.4,
+      "acceptance": 72.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "frequency": 97.4,
+      "acceptance": 59.3,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": []
+    }
+  ]
+}

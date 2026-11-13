@@ -1,0 +1,50 @@
+{
+  "name": "Samsara",
+  "slug": "samsara",
+  "domain": "samsara.com",
+  "logo": "/logos/samsara.png",
+  "questions": [
+    {
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "frequency": 100,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Alternating Groups I",
+      "slug": "alternating-groups-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/alternating-groups-i",
+      "frequency": 97.5,
+      "acceptance": 69.2,
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Alternating Groups II",
+      "slug": "alternating-groups-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/alternating-groups-ii",
+      "frequency": 97.5,
+      "acceptance": 60,
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "periods": []
+    }
+  ]
+}

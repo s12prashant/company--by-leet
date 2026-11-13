@@ -1,0 +1,53 @@
+{
+  "name": "HPE",
+  "slug": "hpe",
+  "domain": "hpe.com",
+  "logo": "/logos/hpe.png",
+  "questions": [
+    {
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/combination-sum",
+      "frequency": 100,
+      "acceptance": 77.3,
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/climbing-stairs",
+      "frequency": 100,
+      "acceptance": 54.4,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximal Score After Applying K Operations",
+      "slug": "maximal-score-after-applying-k-operations",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations",
+      "frequency": 100,
+      "acceptance": 64.2,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    }
+  ]
+}

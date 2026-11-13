@@ -1,0 +1,603 @@
+{
+  "name": "Arista Networks",
+  "slug": "arista-networks",
+  "domain": "arista.com",
+  "logo": "/logos/arista-networks.png",
+  "questions": [
+    {
+      "title": "Construct String With Repeat Limit",
+      "slug": "construct-string-with-repeat-limit",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "frequency": 100,
+      "acceptance": 70.7,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-the-town-judge",
+      "frequency": 96.9,
+      "acceptance": 51.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Graph Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Restore IP Addresses",
+      "slug": "restore-ip-addresses",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/restore-ip-addresses",
+      "frequency": 93.3,
+      "acceptance": 57.4,
+      "topics": [
+        "String",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/missing-number",
+      "frequency": 84.4,
+      "acceptance": 72.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Inorder Successor in BST II",
+      "slug": "inorder-successor-in-bst-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/inorder-successor-in-bst-ii",
+      "frequency": 84.4,
+      "acceptance": 61.1,
+      "topics": [
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "frequency": 78.4,
+      "acceptance": 67.5,
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reorder-list",
+      "frequency": 78.4,
+      "acceptance": 66.5,
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 78.4,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "frequency": 78.4,
+      "acceptance": 52.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "frequency": 78.4,
+      "acceptance": 56.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+      "frequency": 78.4,
+      "acceptance": 78.7,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "frequency": 78.4,
+      "acceptance": 45.8,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+      "frequency": 78.4,
+      "acceptance": 63.9,
+      "topics": [
+        "Hash Table",
+        "Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+      "frequency": 70.8,
+      "acceptance": 52.6,
+      "topics": [
+        "Linked List"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Rotated Digits",
+      "slug": "rotated-digits",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rotated-digits",
+      "frequency": 70.8,
+      "acceptance": 64.2,
+      "topics": [
+        "Math",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/remove-linked-list-elements",
+      "frequency": 70.8,
+      "acceptance": 55.7,
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/permutations",
+      "frequency": 70.8,
+      "acceptance": 82.4,
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/simplify-path",
+      "frequency": 70.8,
+      "acceptance": 51.7,
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove Duplicates from Sorted List II",
+      "slug": "remove-duplicates-from-sorted-list-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+      "frequency": 70.8,
+      "acceptance": 52.7,
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/path-sum-ii",
+      "frequency": 60.1,
+      "acceptance": 63.1,
+      "topics": [
+        "Backtracking",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/word-search",
+      "frequency": 60.1,
+      "acceptance": 48.3,
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "frequency": 60.1,
+      "acceptance": 54,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Word Break",
+      "slug": "word-break",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/word-break",
+      "frequency": 60.1,
+      "acceptance": 50,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization",
+        "Brute-Force Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove All Occurrences of a Substring",
+      "slug": "remove-all-occurrences-of-a-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+      "frequency": 60.1,
+      "acceptance": 78.7,
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "frequency": 60.1,
+      "acceptance": 67.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "frequency": 60.1,
+      "acceptance": 54.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 60.1,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+      "frequency": 60.1,
+      "acceptance": 70.4,
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/decode-string",
+      "frequency": 60.1,
+      "acceptance": 63.4,
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix",
+      "frequency": 60.1,
+      "acceptance": 79.8,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Moving Average from Data Stream",
+      "slug": "moving-average-from-data-stream",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+      "frequency": 60.1,
+      "acceptance": 80.2,
+      "topics": [
+        "Array",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/implement-queue-using-stacks",
+      "frequency": 60.1,
+      "acceptance": 70.3,
+      "topics": [
+        "Stack",
+        "Design",
+        "Queue"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "frequency": 60.1,
+      "acceptance": 49.6,
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Smallest Substring With Identical Characters II",
+      "slug": "smallest-substring-with-identical-characters-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/smallest-substring-with-identical-characters-ii",
+      "frequency": 60.1,
+      "acceptance": 39.1,
+      "topics": [
+        "String",
+        "Binary Search"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "LFU Cache",
+      "slug": "lfu-cache",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/lfu-cache",
+      "frequency": 60.1,
+      "acceptance": 50.5,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Maximum Number of Occurrences of a Substring",
+      "slug": "maximum-number-of-occurrences-of-a-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+      "frequency": 60.1,
+      "acceptance": 55.1,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-common-subsequence",
+      "frequency": 60.1,
+      "acceptance": 59.7,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Longest Common Subsequence"
+      ],
+      "periods": []
+    }
+  ]
+}

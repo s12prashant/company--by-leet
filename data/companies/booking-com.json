@@ -1,0 +1,291 @@
+{
+  "name": "Booking.com",
+  "slug": "booking-com",
+  "domain": "booking.com",
+  "logo": "/logos/booking-com.png",
+  "questions": [
+    {
+      "title": "Reward Top K Students",
+      "slug": "reward-top-k-students",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reward-top-k-students",
+      "frequency": 100,
+      "acceptance": 47.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Out of Three",
+      "slug": "two-out-of-three",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-out-of-three",
+      "frequency": 82,
+      "acceptance": 77.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Delete Duplicate Folders in System",
+      "slug": "delete-duplicate-folders-in-system",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+      "frequency": 79.5,
+      "acceptance": 77.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Depth-First Search",
+        "Trie",
+        "Sorting",
+        "Hash Function"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Coloring A Border",
+      "slug": "coloring-a-border",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/coloring-a-border",
+      "frequency": 79.5,
+      "acceptance": 51.8,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": []
+    },
+    {
+      "title": "K Highest Ranked Items Within a Price Range",
+      "slug": "k-highest-ranked-items-within-a-price-range",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range",
+      "frequency": 79.5,
+      "acceptance": 47.4,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Order Two Columns Independently",
+      "slug": "order-two-columns-independently",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/order-two-columns-independently",
+      "frequency": 79.5,
+      "acceptance": 62,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "frequency": 69.5,
+      "acceptance": 49.4,
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/permutations",
+      "frequency": 69.5,
+      "acceptance": 82.4,
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reconstruct Itinerary",
+      "slug": "reconstruct-itinerary",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reconstruct-itinerary",
+      "frequency": 64.8,
+      "acceptance": 45.1,
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Graph Theory",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Eulerian Circuit",
+        "Eulerian Path",
+        "Semi-Eulerian Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/integer-to-roman",
+      "frequency": 64.8,
+      "acceptance": 71.9,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 58.7,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/roman-to-integer",
+      "frequency": 58.7,
+      "acceptance": 67.3,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximal Square",
+      "slug": "maximal-square",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximal-square",
+      "frequency": 50.2,
+      "acceptance": 51.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "frequency": 50.2,
+      "acceptance": 41.4,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule",
+      "frequency": 50.2,
+      "acceptance": 52.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 50.2,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "frequency": 50.2,
+      "acceptance": 73.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

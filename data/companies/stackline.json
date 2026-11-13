@@ -1,0 +1,42 @@
+{
+  "name": "Stackline",
+  "slug": "stackline",
+  "domain": "stackline.com",
+  "logo": "/logos/stackline.png",
+  "questions": [
+    {
+      "title": "Minimum Height Trees",
+      "slug": "minimum-height-trees",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-height-trees",
+      "frequency": 100,
+      "acceptance": 42.9,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "IPO",
+      "slug": "ipo",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/ipo",
+      "frequency": 80.8,
+      "acceptance": 53.9,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

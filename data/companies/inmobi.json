@@ -1,0 +1,220 @@
+{
+  "name": "InMobi",
+  "slug": "inmobi",
+  "domain": "inmobi.com",
+  "logo": "/logos/inmobi.png",
+  "questions": [
+    {
+      "title": "Trionic Array II",
+      "slug": "trionic-array-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/trionic-array-ii",
+      "frequency": 100,
+      "acceptance": 47.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Cherry Pickup",
+      "slug": "cherry-pickup",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/cherry-pickup",
+      "frequency": 97.5,
+      "acceptance": 40.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Reach a Number",
+      "slug": "reach-a-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reach-a-number",
+      "frequency": 94.8,
+      "acceptance": 45.8,
+      "topics": [
+        "Math",
+        "Binary Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+      "frequency": 91.6,
+      "acceptance": 75.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Zuma Game",
+      "slug": "zuma-game",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/zuma-game",
+      "frequency": 83.7,
+      "acceptance": 28.9,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Breadth-First Search",
+        "Memoization"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Strange Printer",
+      "slug": "strange-printer",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/strange-printer",
+      "frequency": 83.7,
+      "acceptance": 61,
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Frog Position After T Seconds",
+      "slug": "frog-position-after-t-seconds",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/frog-position-after-t-seconds",
+      "frequency": 78.5,
+      "acceptance": 38.9,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Critical Connections in a Network",
+      "slug": "critical-connections-in-a-network",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/critical-connections-in-a-network",
+      "frequency": 78.5,
+      "acceptance": 60.7,
+      "topics": [
+        "Depth-First Search",
+        "Graph Theory",
+        "Biconnected Component",
+        "Bridge (Graph)"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "frequency": 62.2,
+      "acceptance": 41.4,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Lexicographically Maximum MEX Array",
+      "slug": "lexicographically-maximum-mex-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/lexicographically-maximum-mex-array",
+      "frequency": 62.2,
+      "acceptance": 53.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Queue"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+      "frequency": 62.2,
+      "acceptance": 74.8,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "frequency": 62.2,
+      "acceptance": 60.9,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Time to Transport All Individuals",
+      "slug": "minimum-time-to-transport-all-individuals",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-time-to-transport-all-individuals",
+      "frequency": 62.2,
+      "acceptance": 28.7,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Shortest Path",
+        "Bitmask"
+      ],
+      "periods": []
+    }
+  ]
+}

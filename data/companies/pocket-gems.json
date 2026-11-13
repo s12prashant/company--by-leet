@@ -1,0 +1,250 @@
+{
+  "name": "Pocket Gems",
+  "slug": "pocket-gems",
+  "domain": "pocketgems.com",
+  "logo": "/logos/pocket-gems.png",
+  "questions": [
+    {
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "frequency": 100,
+      "acceptance": 47.5,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching",
+        "Z Algorithm",
+        "Knuth–Morris–Pratt Algorithm",
+        "Boyer–Moore String-Search Algorithm"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sort-colors",
+      "frequency": 100,
+      "acceptance": 70.3,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Quicksort",
+        "Bubble Sort"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Non-negative Integers without Consecutive Ones",
+      "slug": "non-negative-integers-without-consecutive-ones",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones",
+      "frequency": 100,
+      "acceptance": 43.6,
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/clone-graph",
+      "frequency": 100,
+      "acceptance": 66.4,
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Word Break",
+      "slug": "word-break",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/word-break",
+      "frequency": 100,
+      "acceptance": 50,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization",
+        "Brute-Force Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "frequency": 100,
+      "acceptance": 60.7,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Shortest Palindrome",
+      "slug": "shortest-palindrome",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/shortest-palindrome",
+      "frequency": 100,
+      "acceptance": 43.3,
+      "topics": [
+        "String",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function",
+        "Manacher",
+        "Z Algorithm",
+        "Knuth–Morris–Pratt Algorithm"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "frequency": 100,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Alien Dictionary",
+      "slug": "alien-dictionary",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/alien-dictionary",
+      "frequency": 100,
+      "acceptance": 37.4,
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Basic Calculator III",
+      "slug": "basic-calculator-iii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "frequency": 100,
+      "acceptance": 53.6,
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Inorder Successor in BST",
+      "slug": "inorder-successor-in-bst",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/inorder-successor-in-bst",
+      "frequency": 100,
+      "acceptance": 51.3,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "frequency": 100,
+      "acceptance": 67.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "frequency": 100,
+      "acceptance": 55.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "frequency": 100,
+      "acceptance": 60.9,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find All Duplicates in an Array",
+      "slug": "find-all-duplicates-in-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+      "frequency": 100,
+      "acceptance": 77.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "periods": []
+    }
+  ]
+}

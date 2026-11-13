@@ -1,0 +1,70 @@
+{
+  "name": "Garmin",
+  "slug": "garmin",
+  "domain": "garmin.com",
+  "logo": "/logos/garmin.png",
+  "questions": [
+    {
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+      "frequency": 100,
+      "acceptance": 71.6,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 100,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 89,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Delete Columns to Make Sorted",
+      "slug": "delete-columns-to-make-sorted",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/delete-columns-to-make-sorted",
+      "frequency": 89,
+      "acceptance": 78.2,
+      "topics": [
+        "Array",
+        "String",
+        "Longest Increasing Subsequence"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Trexquant",
+  "slug": "trexquant",
+  "domain": "trexquant.com",
+  "logo": "/logos/trexquant.png",
+  "questions": [
+    {
+      "title": "Max Difference You Can Get From Changing an Integer",
+      "slug": "max-difference-you-can-get-from-changing-an-integer",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+      "frequency": 100,
+      "acceptance": 48.6,
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/koko-eating-bananas",
+      "frequency": 100,
+      "acceptance": 50.7,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 100,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Brick Wall",
+      "slug": "brick-wall",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/brick-wall",
+      "frequency": 100,
+      "acceptance": 56,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    }
+  ]
+}

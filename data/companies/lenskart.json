@@ -1,0 +1,22 @@
+{
+  "name": "Lenskart",
+  "slug": "lenskart",
+  "domain": "lenskart.com",
+  "logo": "/logos/lenskart.png",
+  "questions": [
+    {
+      "title": "Valid Number",
+      "slug": "valid-number",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/valid-number",
+      "frequency": 100,
+      "acceptance": 23.8,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

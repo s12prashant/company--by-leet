@@ -1,0 +1,22 @@
+{
+  "name": "Edelweiss Group",
+  "slug": "edelweiss-group",
+  "domain": "edelweissfin.com",
+  "logo": "/logos/edelweiss-group.png",
+  "questions": [
+    {
+      "title": "Find if Array Can Be Sorted",
+      "slug": "find-if-array-can-be-sorted",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-if-array-can-be-sorted",
+      "frequency": 100,
+      "acceptance": 66.1,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "periods": []
+    }
+  ]
+}

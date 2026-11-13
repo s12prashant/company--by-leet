@@ -1,0 +1,39 @@
+{
+  "name": "RBC",
+  "slug": "rbc",
+  "domain": "rbc.com",
+  "logo": "/logos/rbc.png",
+  "questions": [
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 100,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "frequency": 100,
+      "acceptance": 58.1,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

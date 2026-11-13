@@ -1,0 +1,22 @@
+{
+  "name": "Moengage",
+  "slug": "moengage",
+  "domain": "moengage.com",
+  "logo": "/logos/moengage.png",
+  "questions": [
+    {
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "slug": "redistribute-characters-to-make-all-strings-equal",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": []
+    }
+  ]
+}

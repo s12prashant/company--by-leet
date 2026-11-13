@@ -1,0 +1,117 @@
+{
+  "name": "Hive",
+  "slug": "hive",
+  "domain": "thehive.ai",
+  "logo": "/logos/hive.png",
+  "questions": [
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "frequency": 100,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Serialize and Deserialize Binary Tree",
+      "slug": "serialize-and-deserialize-binary-tree",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "frequency": 87.4,
+      "acceptance": 61.3,
+      "topics": [
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design",
+        "Binary Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "As Far from Land as Possible",
+      "slug": "as-far-from-land-as-possible",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/as-far-from-land-as-possible",
+      "frequency": 87.4,
+      "acceptance": 52.6,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "frequency": 87.4,
+      "acceptance": 68.4,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/text-justification",
+      "frequency": 87.4,
+      "acceptance": 52.5,
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sort-an-array",
+      "frequency": 77.5,
+      "acceptance": 55.5,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Merge Sort",
+        "Bucket Sort",
+        "Radix Sort",
+        "Counting Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

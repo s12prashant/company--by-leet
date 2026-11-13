@@ -1,0 +1,357 @@
+{
+  "name": "Siemens",
+  "slug": "siemens",
+  "domain": "siemens.com",
+  "logo": "/logos/siemens.png",
+  "questions": [
+    {
+      "title": "Peaks in Array",
+      "slug": "peaks-in-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/peaks-in-array",
+      "frequency": 100,
+      "acceptance": 28.6,
+      "topics": [
+        "Array",
+        "Binary Indexed Tree",
+        "Segment Tree"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimized Maximum of Products Distributed to Any Store",
+      "slug": "minimized-maximum-of-products-distributed-to-any-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store",
+      "frequency": 100,
+      "acceptance": 63.3,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "frequency": 96.6,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 88.1,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 82.5,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "The Skyline Problem",
+      "slug": "the-skyline-problem",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/the-skyline-problem",
+      "frequency": 75.2,
+      "acceptance": 46.2,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Sweep Line",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Ordered Set"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 75.2,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "frequency": 65,
+      "acceptance": 69,
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Angle Between Hands of a Clock",
+      "slug": "angle-between-hands-of-a-clock",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "frequency": 65,
+      "acceptance": 69.9,
+      "topics": [
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "frequency": 65,
+      "acceptance": 64,
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "frequency": 65,
+      "acceptance": 73.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+      "frequency": 65,
+      "acceptance": 74.4,
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 65,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-product-subarray",
+      "frequency": 65,
+      "acceptance": 37.2,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/single-number-iii",
+      "frequency": 65,
+      "acceptance": 70.1,
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "frequency": 65,
+      "acceptance": 67.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rotate-array",
+      "frequency": 65,
+      "acceptance": 45.7,
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/clone-graph",
+      "frequency": 65,
+      "acceptance": 66.4,
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Strong Password Checker",
+      "slug": "strong-password-checker",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/strong-password-checker",
+      "frequency": 65,
+      "acceptance": 16.7,
+      "topics": [
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/reverse-string",
+      "frequency": 65,
+      "acceptance": 81.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/zigzag-conversion",
+      "frequency": 65,
+      "acceptance": 55.4,
+      "topics": [
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "frequency": 65,
+      "acceptance": 47.3,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": []
+    }
+  ]
+}

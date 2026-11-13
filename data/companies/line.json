@@ -1,0 +1,43 @@
+{
+  "name": "LINE",
+  "slug": "line",
+  "domain": "line.me",
+  "logo": "/logos/line.png",
+  "questions": [
+    {
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "frequency": 100,
+      "acceptance": 49.4,
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Cost to Cut a Stick",
+      "slug": "minimum-cost-to-cut-a-stick",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+      "frequency": 90.5,
+      "acceptance": 63.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

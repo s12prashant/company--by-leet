@@ -1,0 +1,40 @@
+{
+  "name": "CARS24",
+  "slug": "cars24",
+  "domain": "cars24.com",
+  "logo": "/logos/cars24.png",
+  "questions": [
+    {
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "frequency": 100,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/house-robber",
+      "frequency": 100,
+      "acceptance": 53.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

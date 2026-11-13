@@ -1,0 +1,120 @@
+{
+  "name": "Flexport",
+  "slug": "flexport",
+  "domain": "flexport.com",
+  "logo": "/logos/flexport.png",
+  "questions": [
+    {
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/decode-string",
+      "frequency": 100,
+      "acceptance": 63.4,
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/clone-graph",
+      "frequency": 98.2,
+      "acceptance": 66.4,
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "frequency": 91.5,
+      "acceptance": 50.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "frequency": 77.1,
+      "acceptance": 67,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "My Calendar I",
+      "slug": "my-calendar-i",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/my-calendar-i",
+      "frequency": 62.6,
+      "acceptance": 58.4,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Segment Tree",
+        "Ordered Set"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Validate IP Address",
+      "slug": "validate-ip-address",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/validate-ip-address",
+      "frequency": 62.6,
+      "acceptance": 28.6,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Bulls and Cows",
+      "slug": "bulls-and-cows",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/bulls-and-cows",
+      "frequency": 62.6,
+      "acceptance": 53.1,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

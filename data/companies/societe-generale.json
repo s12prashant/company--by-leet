@@ -1,0 +1,36 @@
+{
+  "name": "Societe Generale",
+  "slug": "societe-generale",
+  "domain": "societegenerale.com",
+  "logo": "/logos/societe-generale.ico",
+  "questions": [
+    {
+      "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+      "slug": "minimum-number-of-swaps-to-make-the-binary-string-alternating",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating",
+      "frequency": 100,
+      "acceptance": 44.2,
+      "topics": [
+        "String",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 70.5,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

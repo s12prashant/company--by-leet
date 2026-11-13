@@ -1,0 +1,21 @@
+{
+  "name": "DeltaX",
+  "slug": "deltax",
+  "domain": "deltax.com",
+  "questions": [
+    {
+      "title": "Bus Routes",
+      "slug": "bus-routes",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/bus-routes",
+      "frequency": 100,
+      "acceptance": 47.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search"
+      ],
+      "periods": []
+    }
+  ]
+}

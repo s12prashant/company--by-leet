@@ -1,0 +1,132 @@
+{
+  "name": "Nagarro",
+  "slug": "nagarro",
+  "domain": "nagarro.com",
+  "logo": "/logos/nagarro.png",
+  "questions": [
+    {
+      "title": "Count Number of Ways to Place Houses",
+      "slug": "count-number-of-ways-to-place-houses",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-number-of-ways-to-place-houses",
+      "frequency": 100,
+      "acceptance": 44.4,
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Smallest Pair With Different Frequencies",
+      "slug": "smallest-pair-with-different-frequencies",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/smallest-pair-with-different-frequencies",
+      "frequency": 100,
+      "acceptance": 68.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 67,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "frequency": 67,
+      "acceptance": 68.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/implement-stack-using-queues",
+      "frequency": 67,
+      "acceptance": 70.5,
+      "topics": [
+        "Stack",
+        "Design",
+        "Queue"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sort-colors",
+      "frequency": 67,
+      "acceptance": 70.3,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Quicksort",
+        "Bubble Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/linked-list-cycle",
+      "frequency": 67,
+      "acceptance": 55.2,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Using a Robot to Print the Lexicographically Smallest String",
+      "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string",
+      "frequency": 67,
+      "acceptance": 62.2,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Greedy"
+      ],
+      "periods": []
+    }
+  ]
+}

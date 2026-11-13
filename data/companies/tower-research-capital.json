@@ -1,0 +1,81 @@
+{
+  "name": "Tower Research Capital",
+  "slug": "tower-research-capital",
+  "domain": "tower-research.com",
+  "logo": "/logos/tower-research-capital.png",
+  "questions": [
+    {
+      "title": "Using a Robot to Print the Lexicographically Smallest String",
+      "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string",
+      "frequency": 100,
+      "acceptance": 62.2,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Shortest Bridge",
+      "slug": "shortest-bridge",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shortest-bridge",
+      "frequency": 100,
+      "acceptance": 59.9,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "frequency": 100,
+      "acceptance": 64.7,
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory",
+        "Shortest Path",
+        "Bellman–Ford Algorithm",
+        "Floyd–Warshall Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+      "frequency": 100,
+      "acceptance": 51.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "National Instruments",
+  "slug": "national-instruments",
+  "domain": "ni.com",
+  "logo": "/logos/national-instruments.png",
+  "questions": [
+    {
+      "title": "Decoded String at Index",
+      "slug": "decoded-string-at-index",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/decoded-string-at-index",
+      "frequency": 100,
+      "acceptance": 37.6,
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "periods": []
+    }
+  ]
+}

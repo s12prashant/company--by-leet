@@ -1,0 +1,266 @@
+{
+  "name": "Epic Systems",
+  "slug": "epic-systems",
+  "domain": "epic.com",
+  "logo": "/logos/epic-systems.png",
+  "questions": [
+    {
+      "title": "Additive Number",
+      "slug": "additive-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/additive-number",
+      "frequency": 100,
+      "acceptance": 34.7,
+      "topics": [
+        "String",
+        "Backtracking"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "frequency": 90.6,
+      "acceptance": 58.1,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 84.4,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "frequency": 80.4,
+      "acceptance": 67,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Stepping Numbers",
+      "slug": "stepping-numbers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/stepping-numbers",
+      "frequency": 78.1,
+      "acceptance": 48.6,
+      "topics": [
+        "Math",
+        "Backtracking",
+        "Breadth-First Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Self Dividing Numbers",
+      "slug": "self-dividing-numbers",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/self-dividing-numbers",
+      "frequency": 78.1,
+      "acceptance": 81.4,
+      "topics": [
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Angle Between Hands of a Clock",
+      "slug": "angle-between-hands-of-a-clock",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "frequency": 64.3,
+      "acceptance": 69.9,
+      "topics": [
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/word-search",
+      "frequency": 58.6,
+      "acceptance": 48.3,
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 58.6,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-primes",
+      "frequency": 58.6,
+      "acceptance": 35.8,
+      "topics": [
+        "Array",
+        "Math",
+        "Enumeration",
+        "Number Theory",
+        "Primality Test",
+        "Sieve Theory",
+        "Prime Number Sieve"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 50.5,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "frequency": 50.5,
+      "acceptance": 73.3,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/permutations",
+      "frequency": 50.5,
+      "acceptance": 82.4,
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Increasing Path in a Matrix",
+      "slug": "longest-increasing-path-in-a-matrix",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "frequency": 50.5,
+      "acceptance": 57.2,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Memoization",
+        "Matrix",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "frequency": 50.5,
+      "acceptance": 54.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Bulls and Cows",
+      "slug": "bulls-and-cows",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/bulls-and-cows",
+      "frequency": 50.5,
+      "acceptance": 53.1,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": []
+    }
+  ]
+}

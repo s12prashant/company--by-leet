@@ -1,0 +1,166 @@
+{
+  "name": "Hubspot",
+  "slug": "hubspot",
+  "domain": "hubspot.com",
+  "logo": "/logos/hubspot.png",
+  "questions": [
+    {
+      "title": "Find the Celebrity",
+      "slug": "find-the-celebrity",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-the-celebrity",
+      "frequency": 100,
+      "acceptance": 49.1,
+      "topics": [
+        "Two Pointers",
+        "Graph Theory",
+        "Interactive"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/simple-bank-system",
+      "frequency": 81.3,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "frequency": 79.5,
+      "acceptance": 55.9,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 77.5,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 72.8,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Number of Occurrences of a Substring",
+      "slug": "maximum-number-of-occurrences-of-a-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+      "frequency": 66.6,
+      "acceptance": 55.1,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "frequency": 66.6,
+      "acceptance": 69,
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Meeting Rooms II",
+      "slug": "meeting-rooms-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "frequency": 62.4,
+      "acceptance": 52.8,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find the K-Sum of an Array",
+      "slug": "find-the-k-sum-of-an-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/find-the-k-sum-of-an-array",
+      "frequency": 49.5,
+      "acceptance": 42.2,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Memoize",
+      "slug": "memoize",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/memoize",
+      "frequency": 49.5,
+      "acceptance": 65.4,
+      "topics": [],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

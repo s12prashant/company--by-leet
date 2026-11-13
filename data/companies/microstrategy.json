@@ -1,0 +1,142 @@
+{
+  "name": "Microstrategy",
+  "slug": "microstrategy",
+  "domain": "microstrategy.com",
+  "logo": "/logos/microstrategy.png",
+  "questions": [
+    {
+      "title": "Airplane Seat Assignment Probability",
+      "slug": "airplane-seat-assignment-probability",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "frequency": 100,
+      "acceptance": 67.8,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Brainteaser",
+        "Probability and Statistics"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "frequency": 78.3,
+      "acceptance": 50.3,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "frequency": 69.3,
+      "acceptance": 67.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Battleships in a Board",
+      "slug": "battleships-in-a-board",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/battleships-in-a-board",
+      "frequency": 69.3,
+      "acceptance": 77.9,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Ways to Build Sturdy Brick Wall",
+      "slug": "number-of-ways-to-build-sturdy-brick-wall",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+      "frequency": 69.3,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/permutations",
+      "frequency": 69.3,
+      "acceptance": 82.4,
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Number of Swaps to Make the String Balanced",
+      "slug": "minimum-number-of-swaps-to-make-the-string-balanced",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+      "frequency": 69.3,
+      "acceptance": 78.1,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 69.3,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

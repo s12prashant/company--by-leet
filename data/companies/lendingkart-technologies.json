@@ -1,0 +1,21 @@
+{
+  "name": "Lendingkart Technologies",
+  "slug": "lendingkart-technologies",
+  "domain": "lendingkart.com",
+  "logo": "/logos/lendingkart-technologies.png",
+  "questions": [
+    {
+      "title": "Smallest String With A Given Numeric Value",
+      "slug": "smallest-string-with-a-given-numeric-value",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/smallest-string-with-a-given-numeric-value",
+      "frequency": 100,
+      "acceptance": 67.6,
+      "topics": [
+        "String",
+        "Greedy"
+      ],
+      "periods": []
+    }
+  ]
+}

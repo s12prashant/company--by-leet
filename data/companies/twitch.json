@@ -1,0 +1,117 @@
+{
+  "name": "Twitch",
+  "slug": "twitch",
+  "domain": "twitch.tv",
+  "logo": "/logos/twitch.png",
+  "questions": [
+    {
+      "title": "Create a Session Bar Chart",
+      "slug": "create-a-session-bar-chart",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/create-a-session-bar-chart",
+      "frequency": 100,
+      "acceptance": 74.2,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Design a File Sharing System",
+      "slug": "design-a-file-sharing-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-a-file-sharing-system",
+      "frequency": 100,
+      "acceptance": 41.9,
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Toss Strange Coins",
+      "slug": "toss-strange-coins",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/toss-strange-coins",
+      "frequency": 100,
+      "acceptance": 58.1,
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Probability and Statistics"
+      ],
+      "periods": []
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 89.3,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+      "frequency": 68.5,
+      "acceptance": 62.6,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "frequency": 68.5,
+      "acceptance": 55.1,
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 68.5,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ZipRecruiter",
+  "slug": "ziprecruiter",
+  "domain": "ziprecruiter.com",
+  "logo": "/logos/ziprecruiter.png",
+  "questions": [
+    {
+      "title": "Rank Teams by Votes",
+      "slug": "rank-teams-by-votes",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rank-teams-by-votes",
+      "frequency": 100,
+      "acceptance": 60.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

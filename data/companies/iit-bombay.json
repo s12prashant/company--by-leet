@@ -1,0 +1,22 @@
+{
+  "name": "IIT Bombay",
+  "slug": "iit-bombay",
+  "domain": "iitb.ac.in",
+  "questions": [
+    {
+      "title": "Score After Flipping Matrix",
+      "slug": "score-after-flipping-matrix",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/score-after-flipping-matrix",
+      "frequency": 100,
+      "acceptance": 80.3,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Bit Manipulation",
+        "Matrix"
+      ],
+      "periods": []
+    }
+  ]
+}

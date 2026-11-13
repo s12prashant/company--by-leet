@@ -1,0 +1,95 @@
+{
+  "name": "Zepto",
+  "slug": "zepto",
+  "domain": "zeptonow.com",
+  "logo": "/logos/zepto.jpg",
+  "questions": [
+    {
+      "title": "Longest Univalue Path",
+      "slug": "longest-univalue-path",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-univalue-path",
+      "frequency": 100,
+      "acceptance": 44.6,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "DP on Trees"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "frequency": 87.1,
+      "acceptance": 49.4,
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Car Pooling",
+      "slug": "car-pooling",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/car-pooling",
+      "frequency": 76.8,
+      "acceptance": 56.6,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Width Ramp",
+      "slug": "maximum-width-ramp",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-width-ramp",
+      "frequency": 76.8,
+      "acceptance": 56,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+      "frequency": 76.8,
+      "acceptance": 68.2,
+      "topics": [
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Duolingo",
+  "slug": "duolingo",
+  "domain": "duolingo.com",
+  "logo": "/logos/duolingo.png",
+  "questions": [
+    {
+      "title": "Encrypt and Decrypt Strings",
+      "slug": "encrypt-and-decrypt-strings",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "frequency": 100,
+      "acceptance": 39.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "K Radius Subarray Averages",
+      "slug": "k-radius-subarray-averages",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/k-radius-subarray-averages",
+      "frequency": 83.3,
+      "acceptance": 46.6,
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Number of People to Teach",
+      "slug": "minimum-number-of-people-to-teach",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+      "frequency": 83.3,
+      "acceptance": 67.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Task Scheduler II",
+      "slug": "task-scheduler-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/task-scheduler-ii",
+      "frequency": 74.3,
+      "acceptance": 55.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Increasing Path in a Matrix",
+      "slug": "longest-increasing-path-in-a-matrix",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "frequency": 74.3,
+      "acceptance": 57.2,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Memoization",
+        "Matrix",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

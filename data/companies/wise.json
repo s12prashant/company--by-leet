@@ -1,0 +1,107 @@
+{
+  "name": "Wise",
+  "slug": "wise",
+  "domain": "wise.com",
+  "logo": "/logos/wise.png",
+  "questions": [
+    {
+      "title": "Design Tic-Tac-Toe",
+      "slug": "design-tic-tac-toe",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "frequency": 100,
+      "acceptance": 58.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Perfect Pairs",
+      "slug": "number-of-perfect-pairs",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-perfect-pairs",
+      "frequency": 94.6,
+      "acceptance": 34.7,
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximal Square",
+      "slug": "maximal-square",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximal-square",
+      "frequency": 87.7,
+      "acceptance": 51.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Odd String Difference",
+      "slug": "odd-string-difference",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/odd-string-difference",
+      "frequency": 78,
+      "acceptance": 62.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Design Hit Counter",
+      "slug": "design-hit-counter",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "frequency": 78,
+      "acceptance": 69.8,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Meeting Rooms II",
+      "slug": "meeting-rooms-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "frequency": 78,
+      "acceptance": 52.8,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ],
+      "periods": []
+    }
+  ]
+}

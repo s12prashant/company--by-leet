@@ -1,0 +1,51 @@
+{
+  "name": "ciena",
+  "slug": "ciena",
+  "domain": "ciena.com",
+  "logo": "/logos/ciena.png",
+  "questions": [
+    {
+      "title": "Active Users",
+      "slug": "active-users",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/active-users",
+      "frequency": 100,
+      "acceptance": 36.6,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Unique Flavors After Sharing K Candies",
+      "slug": "number-of-unique-flavors-after-sharing-k-candies",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies",
+      "frequency": 100,
+      "acceptance": 62.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 100,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CureFit",
+  "slug": "curefit",
+  "domain": "cult.fit",
+  "logo": "/logos/curefit.png",
+  "questions": [
+    {
+      "title": "Minimum Moves to Make Array Complementary",
+      "slug": "minimum-moves-to-make-array-complementary",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary",
+      "frequency": 100,
+      "acceptance": 64.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "periods": []
+    }
+  ]
+}

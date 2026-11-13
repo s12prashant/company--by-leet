@@ -1,0 +1,83 @@
+{
+  "name": "Amdocs",
+  "slug": "amdocs",
+  "domain": "amdocs.com",
+  "logo": "/logos/amdocs.png",
+  "questions": [
+    {
+      "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+      "slug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+      "frequency": 100,
+      "acceptance": 66.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Ordered Set"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/construct-uniform-parity-array-i",
+      "frequency": 97.6,
+      "acceptance": 85.8,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Divisible Substrings",
+      "slug": "number-of-divisible-substrings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+      "frequency": 95,
+      "acceptance": 74.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/construct-uniform-parity-array-ii",
+      "frequency": 95,
+      "acceptance": 66.4,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/single-number",
+      "frequency": 73.1,
+      "acceptance": 78.4,
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "name": "Geico",
+  "slug": "geico",
+  "domain": "geico.com",
+  "logo": "/logos/geico.png",
+  "questions": [
+    {
+      "title": "Largest Palindromic Number",
+      "slug": "largest-palindromic-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/largest-palindromic-number",
+      "frequency": 100,
+      "acceptance": 37.5,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/cinema-seat-allocation",
+      "frequency": 96.7,
+      "acceptance": 57,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Bit Manipulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "frequency": 92.9,
+      "acceptance": 63.7,
+      "topics": [
+        "String",
+        "Bit Manipulation",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Number of Potholes That Can Be Fixed",
+      "slug": "maximum-number-of-potholes-that-can-be-fixed",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+      "frequency": 92.9,
+      "acceptance": 53.8,
+      "topics": [
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "slug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "frequency": 92.9,
+      "acceptance": 48.6,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Spaces Cleaning Robot Cleaned",
+      "slug": "number-of-spaces-cleaning-robot-cleaned",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+      "frequency": 88.4,
+      "acceptance": 64.5,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/coin-change",
+      "frequency": 88.4,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Knapsack Problem",
+        "Complete Knapsack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+      "frequency": 88.4,
+      "acceptance": 62.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "slug": "minimum-moves-to-spread-stones-over-grid",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "frequency": 75.8,
+      "acceptance": 46.2,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Matrix",
+        "Bitmask"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Path With Maximum Minimum Value",
+      "slug": "path-with-maximum-minimum-value",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+      "frequency": 75.8,
+      "acceptance": 54.8,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Dijkstra's Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "frequency": 65.8,
+      "acceptance": 44,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "frequency": 65.8,
+      "acceptance": 71.8,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "frequency": 65.8,
+      "acceptance": 74.3,
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 65.8,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/integer-to-roman",
+      "frequency": 65.8,
+      "acceptance": 71.9,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove All Occurrences of a Substring",
+      "slug": "remove-all-occurrences-of-a-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+      "frequency": 65.8,
+      "acceptance": 78.7,
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": []
+    }
+  ]
+}

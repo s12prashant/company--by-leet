@@ -1,0 +1,232 @@
+{
+  "name": "Jane Street",
+  "slug": "jane-street",
+  "domain": "janestreet.com",
+  "logo": "/logos/jane-street.png",
+  "questions": [
+    {
+      "title": "Count Common Words With One Occurrence",
+      "slug": "count-common-words-with-one-occurrence",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-common-words-with-one-occurrence",
+      "frequency": 100,
+      "acceptance": 73.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Time to Make Array Sum At Most x",
+      "slug": "minimum-time-to-make-array-sum-at-most-x",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x",
+      "frequency": 93.3,
+      "acceptance": 27.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Walking Robot Simulation",
+      "slug": "walking-robot-simulation",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/walking-robot-simulation",
+      "frequency": 93.3,
+      "acceptance": 64.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Design a Text Editor",
+      "slug": "design-a-text-editor",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/design-a-text-editor",
+      "frequency": 74.5,
+      "acceptance": 52.2,
+      "topics": [
+        "Linked List",
+        "String",
+        "Stack",
+        "Design",
+        "Simulation",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Teemo Attacking",
+      "slug": "teemo-attacking",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/teemo-attacking",
+      "frequency": 74.5,
+      "acceptance": 58.3,
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 74.5,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/add-strings",
+      "frequency": 67.8,
+      "acceptance": 52.3,
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 67.8,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Orders in the Backlog",
+      "slug": "number-of-orders-in-the-backlog",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "frequency": 67.8,
+      "acceptance": 54.8,
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "frequency": 67.8,
+      "acceptance": 49.6,
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 58.5,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Stream of Characters",
+      "slug": "stream-of-characters",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/stream-of-characters",
+      "frequency": 58.5,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "String",
+        "Design",
+        "Trie",
+        "Data Stream",
+        "Aho–Corasick Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/add-two-integers",
+      "frequency": 58.5,
+      "acceptance": 88,
+      "topics": [
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 58.5,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

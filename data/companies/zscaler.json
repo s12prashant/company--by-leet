@@ -1,0 +1,258 @@
+{
+  "name": "ZScaler",
+  "slug": "zscaler",
+  "domain": "zscaler.com",
+  "logo": "/logos/zscaler.png",
+  "questions": [
+    {
+      "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+      "slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+      "frequency": 100,
+      "acceptance": 44.5,
+      "topics": [
+        "Math",
+        "Greedy",
+        "Enumeration"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Strong Pair XOR I",
+      "slug": "maximum-strong-pair-xor-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+      "frequency": 97.1,
+      "acceptance": 76,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation",
+        "Trie",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Strong Pair XOR II",
+      "slug": "maximum-strong-pair-xor-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+      "frequency": 97.1,
+      "acceptance": 33.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation",
+        "Trie",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Day of the Year",
+      "slug": "day-of-the-year",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/day-of-the-year",
+      "frequency": 97.1,
+      "acceptance": 50.8,
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Largest Number After Digit Swaps by Parity",
+      "slug": "largest-number-after-digit-swaps-by-parity",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+      "frequency": 97.1,
+      "acceptance": 65.8,
+      "topics": [
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Optimal Account Balancing",
+      "slug": "optimal-account-balancing",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/optimal-account-balancing",
+      "frequency": 85.6,
+      "acceptance": 50.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Replacements to Sort the Array",
+      "slug": "minimum-replacements-to-sort-the-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array",
+      "frequency": 85.6,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Math",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Increment to Make Array Unique",
+      "slug": "minimum-increment-to-make-array-unique",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+      "frequency": 73.1,
+      "acceptance": 60.9,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "frequency": 73.1,
+      "acceptance": 63.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 73.1,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Divisible Triplet Sums",
+      "slug": "number-of-divisible-triplet-sums",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "frequency": 63.2,
+      "acceptance": 67.6,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/word-ladder",
+      "frequency": 63.2,
+      "acceptance": 46.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search",
+        "Bidirectional Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "slug": "integer-to-english-words",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "frequency": 63.2,
+      "acceptance": 35.3,
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "frequency": 63.2,
+      "acceptance": 67.5,
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "frequency": 63.2,
+      "acceptance": 45.8,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/contains-duplicate",
+      "frequency": 63.2,
+      "acceptance": 64.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

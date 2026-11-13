@@ -1,0 +1,58 @@
+{
+  "name": "Texas Instruments",
+  "slug": "texas-instruments",
+  "domain": "ti.com",
+  "logo": "/logos/texas-instruments.png",
+  "questions": [
+    {
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-path-sum",
+      "frequency": 100,
+      "acceptance": 69,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Substring with Concatenation of All Words",
+      "slug": "substring-with-concatenation-of-all-words",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+      "frequency": 88.4,
+      "acceptance": 35.5,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "frequency": 88.4,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

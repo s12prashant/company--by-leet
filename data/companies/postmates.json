@@ -1,0 +1,51 @@
+{
+  "name": "Postmates",
+  "slug": "postmates",
+  "domain": "postmates.com",
+  "logo": "/logos/postmates.png",
+  "questions": [
+    {
+      "title": "Most Beautiful Item for Each Query",
+      "slug": "most-beautiful-item-for-each-query",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+      "frequency": 100,
+      "acceptance": 62,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find the K-Beauty of a Number",
+      "slug": "find-the-k-beauty-of-a-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number",
+      "frequency": 100,
+      "acceptance": 64,
+      "topics": [
+        "Math",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+      "frequency": 100,
+      "acceptance": 54.5,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": []
+    }
+  ]
+}

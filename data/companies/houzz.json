@@ -1,0 +1,35 @@
+{
+  "name": "Houzz",
+  "slug": "houzz",
+  "domain": "houzz.com",
+  "logo": "/logos/houzz.png",
+  "questions": [
+    {
+      "title": "Remove 9",
+      "slug": "remove-9",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/remove-9",
+      "frequency": 100,
+      "acceptance": 57.2,
+      "topics": [
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Basic Calculator III",
+      "slug": "basic-calculator-iii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "frequency": 100,
+      "acceptance": 53.6,
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": []
+    }
+  ]
+}

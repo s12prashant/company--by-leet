@@ -1,0 +1,64 @@
+{
+  "name": "Works Applications",
+  "slug": "works-applications",
+  "domain": "worksap.com",
+  "logo": "/logos/works-applications.jpg",
+  "questions": [
+    {
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/3sum",
+      "frequency": 100,
+      "acceptance": 40.1,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Course Schedule III",
+      "slug": "course-schedule-iii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/course-schedule-iii",
+      "frequency": 100,
+      "acceptance": 42.4,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "K Inverse Pairs Array",
+      "slug": "k-inverse-pairs-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/k-inverse-pairs-array",
+      "frequency": 100,
+      "acceptance": 49.1,
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/largest-number",
+      "frequency": 100,
+      "acceptance": 44,
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": []
+    }
+  ]
+}

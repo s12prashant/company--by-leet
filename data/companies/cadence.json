@@ -1,0 +1,64 @@
+{
+  "name": "Cadence",
+  "slug": "cadence",
+  "domain": "cadence.com",
+  "logo": "/logos/cadence.ico",
+  "questions": [
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "frequency": 100,
+      "acceptance": 54.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "frequency": 100,
+      "acceptance": 67.5,
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Keys and Rooms",
+      "slug": "keys-and-rooms",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/keys-and-rooms",
+      "frequency": 100,
+      "acceptance": 76.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "frequency": 100,
+      "acceptance": 21.9,
+      "topics": [
+        "String"
+      ],
+      "periods": []
+    }
+  ]
+}

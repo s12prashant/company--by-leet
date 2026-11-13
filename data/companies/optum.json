@@ -1,0 +1,98 @@
+{
+  "name": "Optum",
+  "slug": "optum",
+  "domain": "optum.com",
+  "logo": "/logos/optum.png",
+  "questions": [
+    {
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/reverse-prefix-of-word",
+      "frequency": 100,
+      "acceptance": 86.5,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Bank Account Summary",
+      "slug": "bank-account-summary",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/bank-account-summary",
+      "frequency": 100,
+      "acceptance": 52.4,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-common-subsequence",
+      "frequency": 68,
+      "acceptance": 59.7,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Longest Common Subsequence"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 68,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "All O`one Data Structure",
+      "slug": "all-oone-data-structure",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/all-oone-data-structure",
+      "frequency": 68,
+      "acceptance": 44.7,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 68,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

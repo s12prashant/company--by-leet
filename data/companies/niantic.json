@@ -1,0 +1,40 @@
+{
+  "name": "Niantic",
+  "slug": "niantic",
+  "domain": "nianticlabs.com",
+  "logo": "/logos/niantic.png",
+  "questions": [
+    {
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "frequency": 100,
+      "acceptance": 21.9,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Brace Expansion",
+      "slug": "brace-expansion",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/brace-expansion",
+      "frequency": 89.9,
+      "acceptance": 66.9,
+      "topics": [
+        "String",
+        "Backtracking",
+        "Stack",
+        "Breadth-First Search",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

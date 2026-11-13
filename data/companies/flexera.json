@@ -1,0 +1,38 @@
+{
+  "name": "Flexera",
+  "slug": "flexera",
+  "domain": "flexera.com",
+  "logo": "/logos/flexera.png",
+  "questions": [
+    {
+      "title": "Lexicographically Minimum String After Removing Stars",
+      "slug": "lexicographically-minimum-string-after-removing-stars",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+      "frequency": 100,
+      "acceptance": 50.9,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Clear Digits",
+      "slug": "clear-digits",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/clear-digits",
+      "frequency": 100,
+      "acceptance": 82.8,
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": []
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "name": "UKG",
+  "slug": "ukg",
+  "domain": "ukg.com",
+  "logo": "/logos/ukg.png",
+  "questions": [
+    {
+      "title": "Maximum Area Rectangle With Point Constraints I",
+      "slug": "maximum-area-rectangle-with-point-constraints-i",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+      "frequency": 100,
+      "acceptance": 51.1,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Geometry",
+        "Sorting",
+        "Enumeration"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Area Rectangle With Point Constraints II",
+      "slug": "maximum-area-rectangle-with-point-constraints-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+      "frequency": 100,
+      "acceptance": 24.3,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Geometry",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/special-binary-string",
+      "frequency": 94.9,
+      "acceptance": 79.4,
+      "topics": [
+        "String",
+        "Divide and Conquer",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 78.9,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count the Number of Good Subsequences",
+      "slug": "count-the-number-of-good-subsequences",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+      "frequency": 78.9,
+      "acceptance": 47.5,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Length of Anagram Concatenation",
+      "slug": "minimum-length-of-anagram-concatenation",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+      "frequency": 72.3,
+      "acceptance": 39.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Word",
+      "slug": "valid-word",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-word",
+      "frequency": 72.3,
+      "acceptance": 50.9,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximize Greatness of an Array",
+      "slug": "maximize-greatness-of-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "frequency": 72.3,
+      "acceptance": 61.7,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/split-array-largest-sum",
+      "frequency": 72.3,
+      "acceptance": 61.6,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Make a Positive Array",
+      "slug": "make-a-positive-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/make-a-positive-array",
+      "frequency": 63,
+      "acceptance": 37.2,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "frequency": 63,
+      "acceptance": 54.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

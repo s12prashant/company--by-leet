@@ -1,0 +1,40 @@
+{
+  "name": "CRED",
+  "slug": "cred",
+  "domain": "cred.club",
+  "logo": "/logos/cred.png",
+  "questions": [
+    {
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+      "frequency": 100,
+      "acceptance": 79.7,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "frequency": 100,
+      "acceptance": 60.9,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

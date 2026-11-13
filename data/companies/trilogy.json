@@ -1,0 +1,99 @@
+{
+  "name": "Trilogy",
+  "slug": "trilogy",
+  "domain": "trilogy.com",
+  "logo": "/logos/trilogy.png",
+  "questions": [
+    {
+      "title": "Substring XOR Queries",
+      "slug": "substring-xor-queries",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/substring-xor-queries",
+      "frequency": 100,
+      "acceptance": 36.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Handling Sum Queries After Update",
+      "slug": "handling-sum-queries-after-update",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/handling-sum-queries-after-update",
+      "frequency": 100,
+      "acceptance": 32.4,
+      "topics": [
+        "Array",
+        "Segment Tree"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Bitwise XOR of All Pairings",
+      "slug": "bitwise-xor-of-all-pairings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Time to Kill All Monsters",
+      "slug": "minimum-time-to-kill-all-monsters",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+      "frequency": 100,
+      "acceptance": 56.4,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Fraction Addition and Subtraction",
+      "slug": "fraction-addition-and-subtraction",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+      "frequency": 77.5,
+      "acceptance": 66.7,
+      "topics": [
+        "Math",
+        "String",
+        "Simulation",
+        "Euclidean Algorithm",
+        "Greatest Common Divisor"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Range Product Queries of Powers",
+      "slug": "range-product-queries-of-powers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+      "frequency": 68.2,
+      "acceptance": 61.2,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

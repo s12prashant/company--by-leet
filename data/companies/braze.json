@@ -1,0 +1,25 @@
+{
+  "name": "Braze",
+  "slug": "braze",
+  "domain": "braze.com",
+  "logo": "/logos/braze.png",
+  "questions": [
+    {
+      "title": "Candy Crush",
+      "slug": "candy-crush",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/candy-crush",
+      "frequency": 100,
+      "acceptance": 77.6,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

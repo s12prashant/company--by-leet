@@ -1,0 +1,182 @@
+{
+  "name": "razorpay",
+  "slug": "razorpay",
+  "domain": "razorpay.com",
+  "logo": "/logos/razorpay.png",
+  "questions": [
+    {
+      "title": "Minimum Total Cost to Make Arrays Unequal",
+      "slug": "minimum-total-cost-to-make-arrays-unequal",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+      "frequency": 100,
+      "acceptance": 41.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Two Best Non-Overlapping Events",
+      "slug": "two-best-non-overlapping-events",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/two-best-non-overlapping-events",
+      "frequency": 97.2,
+      "acceptance": 63.9,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Most Beautiful Item for Each Query",
+      "slug": "most-beautiful-item-for-each-query",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+      "frequency": 97.2,
+      "acceptance": 62,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Shortest Subarray to be Removed to Make Array Sorted",
+      "slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+      "frequency": 97.2,
+      "acceptance": 51.4,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 90.4,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/decode-string",
+      "frequency": 86.1,
+      "acceptance": 63.4,
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 64.5,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rotate-array",
+      "frequency": 64.5,
+      "acceptance": 45.7,
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "frequency": 64.5,
+      "acceptance": 66.5,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/unique-paths",
+      "frequency": 64.5,
+      "acceptance": 67.4,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Smallest Good Base",
+      "slug": "smallest-good-base",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/smallest-good-base",
+      "frequency": 64.5,
+      "acceptance": 47.9,
+      "topics": [
+        "Math",
+        "Binary Search"
+      ],
+      "periods": []
+    }
+  ]
+}

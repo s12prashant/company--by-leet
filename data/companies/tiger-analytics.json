@@ -1,0 +1,50 @@
+{
+  "name": "Tiger Analytics",
+  "slug": "tiger-analytics",
+  "domain": "tigeranalytics.com",
+  "logo": "/logos/tiger-analytics.png",
+  "questions": [
+    {
+      "title": "Find Closest Number to Zero",
+      "slug": "find-closest-number-to-zero",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-closest-number-to-zero",
+      "frequency": 100,
+      "acceptance": 48.2,
+      "topics": [
+        "Array"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 89.6,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 78.2,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

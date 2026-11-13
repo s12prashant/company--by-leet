@@ -1,0 +1,86 @@
+{
+  "name": "Qualtrics",
+  "slug": "qualtrics",
+  "domain": "qualtrics.com",
+  "logo": "/logos/qualtrics.jpg",
+  "questions": [
+    {
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "frequency": 100,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count Square Sum Triples",
+      "slug": "count-square-sum-triples",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-square-sum-triples",
+      "frequency": 100,
+      "acceptance": 77.2,
+      "topics": [
+        "Math",
+        "Enumeration"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "frequency": 68.7,
+      "acceptance": 48.7,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximal Square",
+      "slug": "maximal-square",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximal-square",
+      "frequency": 68.7,
+      "acceptance": 51.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Flood Fill",
+      "slug": "flood-fill",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/flood-fill",
+      "frequency": 68.7,
+      "acceptance": 69,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

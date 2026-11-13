@@ -1,0 +1,141 @@
+{
+  "name": "Axon",
+  "slug": "axon",
+  "domain": "axon.com",
+  "logo": "/logos/axon.png",
+  "questions": [
+    {
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "frequency": 100,
+      "acceptance": 50.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "frequency": 97.4,
+      "acceptance": 55.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Underground System",
+      "slug": "design-underground-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-underground-system",
+      "frequency": 93.2,
+      "acceptance": 74.7,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Interleaving String",
+      "slug": "interleaving-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/interleaving-string",
+      "frequency": 78.4,
+      "acceptance": 45,
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "frequency": 64.8,
+      "acceptance": 54.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/edit-distance",
+      "frequency": 59.1,
+      "acceptance": 61.5,
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Exclusive Time of Functions",
+      "slug": "exclusive-time-of-functions",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+      "frequency": 59.1,
+      "acceptance": 66.3,
+      "topics": [
+        "Array",
+        "Stack"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "frequency": 51.2,
+      "acceptance": 69.5,
+      "topics": [
+        "Array",
+        "Math",
+        "Divide and Conquer",
+        "Geometry",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect",
+        "K-D Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

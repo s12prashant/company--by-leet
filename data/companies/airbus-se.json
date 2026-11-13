@@ -1,0 +1,63 @@
+{
+  "name": "Airbus SE",
+  "slug": "airbus-se",
+  "domain": "airbus.com",
+  "logo": "/logos/airbus-se.png",
+  "questions": [
+    {
+      "title": "Find the Number of Good Pairs II",
+      "slug": "find-the-number-of-good-pairs-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+      "frequency": 100,
+      "acceptance": 26.8,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find the Number of Good Pairs I",
+      "slug": "find-the-number-of-good-pairs-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+      "frequency": 97.4,
+      "acceptance": 86.2,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Array Changes to Make Differences Equal",
+      "slug": "minimum-array-changes-to-make-differences-equal",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal",
+      "frequency": 97.4,
+      "acceptance": 24.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 87,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

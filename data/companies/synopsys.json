@@ -1,0 +1,23 @@
+{
+  "name": "Synopsys",
+  "slug": "synopsys",
+  "domain": "synopsys.com",
+  "logo": "/logos/synopsys.ico",
+  "questions": [
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 100,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

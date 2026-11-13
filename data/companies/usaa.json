@@ -1,0 +1,57 @@
+{
+  "name": "USAA",
+  "slug": "usaa",
+  "domain": "usaa.com",
+  "logo": "/logos/usaa.png",
+  "questions": [
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 100,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 88.8,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Word in Dictionary through Deleting",
+      "slug": "longest-word-in-dictionary-through-deleting",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting",
+      "frequency": 88.8,
+      "acceptance": 53.1,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

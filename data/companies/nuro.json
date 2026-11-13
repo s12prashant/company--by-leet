@@ -1,0 +1,235 @@
+{
+  "name": "Nuro",
+  "slug": "nuro",
+  "domain": "nuro.ai",
+  "logo": "/logos/nuro.png",
+  "questions": [
+    {
+      "title": "Maximum Number of Visible Points",
+      "slug": "maximum-number-of-visible-points",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "frequency": 100,
+      "acceptance": 38.6,
+      "topics": [
+        "Array",
+        "Math",
+        "Geometry",
+        "Sliding Window",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Subrectangle Queries",
+      "slug": "subrectangle-queries",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/subrectangle-queries",
+      "frequency": 89.6,
+      "acceptance": 86.5,
+      "topics": [
+        "Array",
+        "Design",
+        "Matrix"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Random Pick with Weight",
+      "slug": "random-pick-with-weight",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "frequency": 86.8,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "frequency": 74.8,
+      "acceptance": 64.7,
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory",
+        "Shortest Path",
+        "Bellman–Ford Algorithm",
+        "Floyd–Warshall Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minesweeper",
+      "slug": "minesweeper",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minesweeper",
+      "frequency": 74.8,
+      "acceptance": 69,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Shortest Path in a Grid with Obstacles Elimination",
+      "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+      "frequency": 60,
+      "acceptance": 46.8,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Interval List Intersections",
+      "slug": "interval-list-intersections",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/interval-list-intersections",
+      "frequency": 60,
+      "acceptance": 73.3,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sweep Line"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "frequency": 60,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Sparse Matrix Multiplication",
+      "slug": "sparse-matrix-multiplication",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sparse-matrix-multiplication",
+      "frequency": 60,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix",
+        "Linear Algebra"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/target-sum",
+      "frequency": 60,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Knapsack Problem",
+        "0-1 Knapsack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Alien Dictionary",
+      "slug": "alien-dictionary",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/alien-dictionary",
+      "frequency": 60,
+      "acceptance": 37.4,
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove Sub-Folders from the Filesystem",
+      "slug": "remove-sub-folders-from-the-filesystem",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem",
+      "frequency": 60,
+      "acceptance": 78.6,
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Dot Product of Two Sparse Vectors",
+      "slug": "dot-product-of-two-sparse-vectors",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+      "frequency": 60,
+      "acceptance": 89.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Design",
+        "Linear Algebra"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

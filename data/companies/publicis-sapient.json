@@ -1,0 +1,149 @@
+{
+  "name": "Publicis Sapient",
+  "slug": "publicis-sapient",
+  "domain": "publicissapient.com",
+  "logo": "/logos/publicis-sapient.png",
+  "questions": [
+    {
+      "title": "Sum of Subsequence Widths",
+      "slug": "sum-of-subsequence-widths",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sum-of-subsequence-widths",
+      "frequency": 100,
+      "acceptance": 41.6,
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 77.1,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Sideway Jumps",
+      "slug": "minimum-sideway-jumps",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-sideway-jumps",
+      "frequency": 77.1,
+      "acceptance": 52,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "frequency": 67.6,
+      "acceptance": 68.4,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 67.6,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "frequency": 67.6,
+      "acceptance": 60.9,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "frequency": 67.6,
+      "acceptance": 61,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 67.6,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Largest Palindromic Number",
+      "slug": "largest-palindromic-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/largest-palindromic-number",
+      "frequency": 67.6,
+      "acceptance": 37.5,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Moveworks",
+  "slug": "moveworks",
+  "domain": "moveworks.com",
+  "logo": "/logos/moveworks.jpg",
+  "questions": [
+    {
+      "title": "Shortest Uncommon Substring in an Array",
+      "slug": "shortest-uncommon-substring-in-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "frequency": 100,
+      "acceptance": 51.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Word Break II",
+      "slug": "word-break-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/word-break-ii",
+      "frequency": 88,
+      "acceptance": 56.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Trie",
+        "Memoization"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Synonymous Sentences",
+      "slug": "synonymous-sentences",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/synonymous-sentences",
+      "frequency": 69.2,
+      "acceptance": 57.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Backtracking",
+        "Sort",
+        "Union-Find"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/text-justification",
+      "frequency": 65.2,
+      "acceptance": 52.5,
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Replacements to Sort the Array",
+      "slug": "minimum-replacements-to-sort-the-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array",
+      "frequency": 59.9,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Math",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 52.6,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Fidelity",
+  "slug": "fidelity",
+  "domain": "fidelity.com",
+  "logo": "/logos/fidelity.png",
+  "questions": [
+    {
+      "title": "Modify the Matrix",
+      "slug": "modify-the-matrix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/modify-the-matrix",
+      "frequency": 100,
+      "acceptance": 69.3,
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "frequency": 67.5,
+      "acceptance": 54.5,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "frequency": 67.5,
+      "acceptance": 66.5,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 67.5,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Angle Between Hands of a Clock",
+      "slug": "angle-between-hands-of-a-clock",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "frequency": 67.5,
+      "acceptance": 69.9,
+      "topics": [
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

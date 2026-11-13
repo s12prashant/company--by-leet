@@ -1,0 +1,25 @@
+{
+  "name": "smartnews",
+  "slug": "smartnews",
+  "domain": "smartnews.com",
+  "logo": "/logos/smartnews.png",
+  "questions": [
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 100,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

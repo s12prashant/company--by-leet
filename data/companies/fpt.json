@@ -1,0 +1,34 @@
+{
+  "name": "FPT",
+  "slug": "fpt",
+  "domain": "fpt.com",
+  "logo": "/logos/fpt.png",
+  "questions": [
+    {
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "slug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number",
+      "frequency": 100,
+      "acceptance": 65.3,
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 69.5,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    }
+  ]
+}

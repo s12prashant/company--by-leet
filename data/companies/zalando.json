@@ -1,0 +1,37 @@
+{
+  "name": "Zalando",
+  "slug": "zalando",
+  "domain": "zalando.com",
+  "logo": "/logos/zalando.png",
+  "questions": [
+    {
+      "title": "String Without AAA or BBB",
+      "slug": "string-without-aaa-or-bbb",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-without-aaa-or-bbb",
+      "frequency": 100,
+      "acceptance": 45.8,
+      "topics": [
+        "String",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 69.4,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

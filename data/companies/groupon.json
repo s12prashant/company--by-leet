@@ -1,0 +1,41 @@
+{
+  "name": "Groupon",
+  "slug": "groupon",
+  "domain": "groupon.com",
+  "logo": "/logos/groupon.png",
+  "questions": [
+    {
+      "title": "Sell Diminishing-Valued Colored Balls",
+      "slug": "sell-diminishing-valued-colored-balls",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+      "frequency": 100,
+      "acceptance": 30.5,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/jump-game-ii",
+      "frequency": 72.2,
+      "acceptance": 43.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

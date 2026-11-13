@@ -1,0 +1,83 @@
+{
+  "name": "MAQ Software",
+  "slug": "maq-software",
+  "domain": "maqsoftware.com",
+  "logo": "/logos/maq-software.png",
+  "questions": [
+    {
+      "title": "Unique Substrings in Wraparound String",
+      "slug": "unique-substrings-in-wraparound-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/unique-substrings-in-wraparound-string",
+      "frequency": 100,
+      "acceptance": 44.3,
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 77.8,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+      "frequency": 68.6,
+      "acceptance": 66,
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/delete-duplicate-emails",
+      "frequency": 68.6,
+      "acceptance": 67.1,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "frequency": 68.6,
+      "acceptance": 41.4,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

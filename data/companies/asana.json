@@ -1,0 +1,88 @@
+{
+  "name": "Asana",
+  "slug": "asana",
+  "domain": "asana.com",
+  "logo": "/logos/asana.png",
+  "questions": [
+    {
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "frequency": 100,
+      "acceptance": 69.5,
+      "topics": [
+        "Array",
+        "Math",
+        "Divide and Conquer",
+        "Geometry",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect",
+        "K-D Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "frequency": 95.1,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Repeating Substring",
+      "slug": "maximum-repeating-substring",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/maximum-repeating-substring",
+      "frequency": 88.7,
+      "acceptance": 42.6,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Cost Path with Edge Reversals",
+      "slug": "minimum-cost-path-with-edge-reversals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals",
+      "frequency": 88.7,
+      "acceptance": 61.5,
+      "topics": [
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/validate-binary-search-tree",
+      "frequency": 60.8,
+      "acceptance": 36.5,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "periods": []
+    }
+  ]
+}

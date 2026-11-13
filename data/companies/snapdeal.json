@@ -1,0 +1,23 @@
+{
+  "name": "Snapdeal",
+  "slug": "snapdeal",
+  "domain": "snapdeal.com",
+  "logo": "/logos/snapdeal.png",
+  "questions": [
+    {
+      "title": "Longest Arithmetic Subsequence",
+      "slug": "longest-arithmetic-subsequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+      "frequency": 100,
+      "acceptance": 50.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Riot Games",
+  "slug": "riot-games",
+  "domain": "riotgames.com",
+  "logo": "/logos/riot-games.png",
+  "questions": [
+    {
+      "title": "Teemo Attacking",
+      "slug": "teemo-attacking",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/teemo-attacking",
+      "frequency": 100,
+      "acceptance": 58.3,
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Better Compression of String",
+      "slug": "better-compression-of-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/better-compression-of-string",
+      "frequency": 75.9,
+      "acceptance": 75.5,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Game of Life",
+      "slug": "game-of-life",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/game-of-life",
+      "frequency": 67.8,
+      "acceptance": 73.1,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "frequency": 67.8,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "periods": []
+    }
+  ]
+}

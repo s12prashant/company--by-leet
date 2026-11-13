@@ -1,0 +1,22 @@
+{
+  "name": "Veeva Systems",
+  "slug": "veeva-systems",
+  "domain": "veeva.com",
+  "logo": "/logos/veeva-systems.png",
+  "questions": [
+    {
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-and-say",
+      "frequency": 100,
+      "acceptance": 64.1,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

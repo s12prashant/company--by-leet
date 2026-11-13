@@ -1,0 +1,49 @@
+{
+  "name": "ThoughtWorks",
+  "slug": "thoughtworks",
+  "domain": "thoughtworks.com",
+  "logo": "/logos/thoughtworks.png",
+  "questions": [
+    {
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "slug": "number-of-bit-changes-to-make-two-integers-equal",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "frequency": 100,
+      "acceptance": 63.6,
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 70.8,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Closest Number to Zero",
+      "slug": "find-closest-number-to-zero",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-closest-number-to-zero",
+      "frequency": 70.8,
+      "acceptance": 48.2,
+      "topics": [
+        "Array"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

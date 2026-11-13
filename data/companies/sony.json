@@ -1,0 +1,91 @@
+{
+  "name": "Sony",
+  "slug": "sony",
+  "domain": "sony.com",
+  "logo": "/logos/sony.png",
+  "questions": [
+    {
+      "title": "Subtree Removal Game with Fibonacci Tree",
+      "slug": "subtree-removal-game-with-fibonacci-tree",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+      "frequency": 100,
+      "acceptance": 55.3,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Binary Tree",
+        "Game Theory",
+        "Sprague–Grundy Theorem"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 78.6,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Random Pick with Weight",
+      "slug": "random-pick-with-weight",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "frequency": 69.8,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/number-of-good-pairs",
+      "frequency": 69.8,
+      "acceptance": 90,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 69.8,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

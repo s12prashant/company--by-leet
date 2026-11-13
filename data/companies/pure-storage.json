@@ -1,0 +1,137 @@
+{
+  "name": "Pure Storage",
+  "slug": "pure-storage",
+  "domain": "purestorage.com",
+  "logo": "/logos/pure-storage.png",
+  "questions": [
+    {
+      "title": "Valid Square",
+      "slug": "valid-square",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/valid-square",
+      "frequency": 100,
+      "acceptance": 45.7,
+      "topics": [
+        "Math",
+        "Geometry"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "frequency": 97.1,
+      "acceptance": 73.3,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Skiplist",
+      "slug": "design-skiplist",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/design-skiplist",
+      "frequency": 87.1,
+      "acceptance": 59.7,
+      "topics": [
+        "Linked List",
+        "Design"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Repeating Substring",
+      "slug": "maximum-repeating-substring",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/maximum-repeating-substring",
+      "frequency": 77.5,
+      "acceptance": 42.6,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "frequency": 67.1,
+      "acceptance": 55.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Detect Squares",
+      "slug": "detect-squares",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/detect-squares",
+      "frequency": 67.1,
+      "acceptance": 53.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Counting",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "frequency": 58.8,
+      "acceptance": 38.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/binary-search",
+      "frequency": 58.8,
+      "acceptance": 61.4,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

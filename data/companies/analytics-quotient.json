@@ -1,0 +1,31 @@
+{
+  "name": "Analytics quotient",
+  "slug": "analytics-quotient",
+  "domain": "analytics-quotient.com",
+  "questions": [
+    {
+      "title": "The Number of Users That Are Eligible for Discount",
+      "slug": "the-number-of-users-that-are-eligible-for-discount",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount",
+      "frequency": 100,
+      "acceptance": 50.6,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "The Users That Are Eligible for Discount",
+      "slug": "the-users-that-are-eligible-for-discount",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount",
+      "frequency": 100,
+      "acceptance": 51,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    }
+  ]
+}

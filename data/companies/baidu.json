@@ -1,0 +1,155 @@
+{
+  "name": "Baidu",
+  "slug": "baidu",
+  "domain": "baidu.com",
+  "logo": "/logos/baidu.png",
+  "questions": [
+    {
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "frequency": 100,
+      "acceptance": 42.9,
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "DP on Trees"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+      "frequency": 100,
+      "acceptance": 46.9,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Divide and Conquer",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Integer Replacement",
+      "slug": "integer-replacement",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/integer-replacement",
+      "frequency": 100,
+      "acceptance": 38.2,
+      "topics": [
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Memoization"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/split-array-largest-sum",
+      "frequency": 100,
+      "acceptance": 61.6,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Arithmetic Slices",
+      "slug": "arithmetic-slices",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/arithmetic-slices",
+      "frequency": 100,
+      "acceptance": 65,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Arithmetic Slices II - Subsequence",
+      "slug": "arithmetic-slices-ii-subsequence",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+      "frequency": 100,
+      "acceptance": 55.4,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Zuma Game",
+      "slug": "zuma-game",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/zuma-game",
+      "frequency": 100,
+      "acceptance": 28.9,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Breadth-First Search",
+        "Memoization"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Out of Boundary Paths",
+      "slug": "out-of-boundary-paths",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/out-of-boundary-paths",
+      "frequency": 100,
+      "acceptance": 48.6,
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Design In-Memory File System",
+      "slug": "design-in-memory-file-system",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "frequency": 100,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Length of Longest Fibonacci Subsequence",
+      "slug": "length-of-longest-fibonacci-subsequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence",
+      "frequency": 100,
+      "acceptance": 57.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    }
+  ]
+}

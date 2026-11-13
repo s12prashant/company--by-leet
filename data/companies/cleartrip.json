@@ -1,0 +1,29 @@
+{
+  "name": "Cleartrip",
+  "slug": "cleartrip",
+  "domain": "cleartrip.com",
+  "logo": "/logos/cleartrip.png",
+  "questions": [
+    {
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+      "frequency": 100,
+      "acceptance": 71.3,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Shortest Path",
+        "0-1 BFS",
+        "Dijkstra's Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

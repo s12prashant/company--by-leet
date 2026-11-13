@@ -1,0 +1,59 @@
+{
+  "name": "GE Healthcare",
+  "slug": "ge-healthcare",
+  "domain": "gehealthcare.com",
+  "logo": "/logos/ge-healthcare.png",
+  "questions": [
+    {
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/concatenation-of-array",
+      "frequency": 100,
+      "acceptance": 89.9,
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "frequency": 70.1,
+      "acceptance": 64.7,
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory",
+        "Shortest Path",
+        "Bellman–Ford Algorithm",
+        "Floyd–Warshall Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "frequency": 70.1,
+      "acceptance": 47.9,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

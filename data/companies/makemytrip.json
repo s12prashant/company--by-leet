@@ -1,0 +1,213 @@
+{
+  "name": "MakeMyTrip",
+  "slug": "makemytrip",
+  "domain": "makemytrip.com",
+  "logo": "/logos/makemytrip.png",
+  "questions": [
+    {
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency",
+      "frequency": 100,
+      "acceptance": 60.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Sum Of Special Evenly-Spaced Elements In Array",
+      "slug": "sum-of-special-evenly-spaced-elements-in-array",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array",
+      "frequency": 100,
+      "acceptance": 49.8,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sqrt Decomposition"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Longest Ideal Subsequence",
+      "slug": "longest-ideal-subsequence",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-ideal-subsequence",
+      "frequency": 100,
+      "acceptance": 46.6,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Reachable Nodes With Restrictions",
+      "slug": "reachable-nodes-with-restrictions",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reachable-nodes-with-restrictions",
+      "frequency": 100,
+      "acceptance": 61,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "frequency": 64.7,
+      "acceptance": 44,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 64.7,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "frequency": 64.7,
+      "acceptance": 41.4,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "frequency": 64.7,
+      "acceptance": 73.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/multiply-strings",
+      "frequency": 64.7,
+      "acceptance": 44.9,
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-sum-circular-subarray",
+      "frequency": 64.7,
+      "acceptance": 51.7,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Queue",
+        "Monotonic Queue"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "frequency": 64.7,
+      "acceptance": 40,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/house-robber",
+      "frequency": 64.7,
+      "acceptance": 53.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/house-robber-ii",
+      "frequency": 64.7,
+      "acceptance": 45.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

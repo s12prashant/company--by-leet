@@ -1,0 +1,55 @@
+{
+  "name": "Deliveroo",
+  "slug": "deliveroo",
+  "domain": "deliveroo.com",
+  "logo": "/logos/deliveroo.png",
+  "questions": [
+    {
+      "title": "Design Authentication Manager",
+      "slug": "design-authentication-manager",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-authentication-manager",
+      "frequency": 100,
+      "acceptance": 58.9,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-words-containing-character",
+      "frequency": 92.1,
+      "acceptance": 90.2,
+      "topics": [
+        "Array",
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Logger Rate Limiter",
+      "slug": "logger-rate-limiter",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "frequency": 73.1,
+      "acceptance": 76.9,
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

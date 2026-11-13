@@ -1,0 +1,23 @@
+{
+  "name": "SOTI",
+  "slug": "soti",
+  "domain": "soti.net",
+  "logo": "/logos/soti.jpg",
+  "questions": [
+    {
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/can-place-flowers",
+      "frequency": 100,
+      "acceptance": 29.3,
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

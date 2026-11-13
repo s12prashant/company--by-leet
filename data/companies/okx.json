@@ -1,0 +1,26 @@
+{
+  "name": "OKX",
+  "slug": "okx",
+  "domain": "okx.com",
+  "logo": "/logos/okx.png",
+  "questions": [
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "frequency": 100,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

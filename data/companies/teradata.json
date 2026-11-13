@@ -1,0 +1,152 @@
+{
+  "name": "Teradata",
+  "slug": "teradata",
+  "domain": "teradata.com",
+  "logo": "/logos/teradata.png",
+  "questions": [
+    {
+      "title": "Minimum Cost to Hire K Workers",
+      "slug": "minimum-cost-to-hire-k-workers",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers",
+      "frequency": 100,
+      "acceptance": 63.9,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Maximize the Minimum Powered City",
+      "slug": "maximize-the-minimum-powered-city",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city",
+      "frequency": 98.5,
+      "acceptance": 61.3,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Queue",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Minimum Jumps to Reach End via Prime Teleportation",
+      "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation",
+      "frequency": 96.9,
+      "acceptance": 44.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Breadth-First Search",
+        "Number Theory"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Remove Boxes",
+      "slug": "remove-boxes",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "frequency": 91.2,
+      "acceptance": 49.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find the Sum of the Power of All Subsequences",
+      "slug": "find-the-sum-of-the-power-of-all-subsequences",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+      "frequency": 88.9,
+      "acceptance": 39,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Knapsack Problem",
+        "0-1 Knapsack"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Minimum Operations to Make Binary Palindrome",
+      "slug": "minimum-operations-to-make-binary-palindrome",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome",
+      "frequency": 86.3,
+      "acceptance": 51,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Reducing Dishes",
+      "slug": "reducing-dishes",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reducing-dishes",
+      "frequency": 71.2,
+      "acceptance": 76.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Count Pairs in Two Arrays",
+      "slug": "count-pairs-in-two-arrays",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "frequency": 56.2,
+      "acceptance": 60.3,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

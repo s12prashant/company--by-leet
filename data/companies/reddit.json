@@ -1,0 +1,72 @@
+{
+  "name": "Reddit",
+  "slug": "reddit",
+  "domain": "reddit.com",
+  "logo": "/logos/reddit.png",
+  "questions": [
+    {
+      "title": "Number of Ways to Buy Pens and Pencils",
+      "slug": "number-of-ways-to-buy-pens-and-pencils",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils",
+      "frequency": 100,
+      "acceptance": 57.3,
+      "topics": [
+        "Math",
+        "Enumeration"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/word-ladder",
+      "frequency": 89.7,
+      "acceptance": 46.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search",
+        "Bidirectional Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Hit Counter",
+      "slug": "design-hit-counter",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "frequency": 78.6,
+      "acceptance": 69.8,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Logger Rate Limiter",
+      "slug": "logger-rate-limiter",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "frequency": 69.7,
+      "acceptance": 76.9,
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

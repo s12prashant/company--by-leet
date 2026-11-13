@@ -1,0 +1,315 @@
+{
+  "name": "OpenAI",
+  "slug": "openai",
+  "domain": "openai.com",
+  "logo": "/logos/openai.png",
+  "questions": [
+    {
+      "title": "Design Memory Allocator",
+      "slug": "design-memory-allocator",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-memory-allocator",
+      "frequency": 100,
+      "acceptance": 51,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design SQL",
+      "slug": "design-sql",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-sql",
+      "frequency": 96.5,
+      "acceptance": 63.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Encode and Decode Strings",
+      "slug": "encode-and-decode-strings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/encode-and-decode-strings",
+      "frequency": 86.7,
+      "acceptance": 52.1,
+      "topics": [
+        "Array",
+        "String",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rotting-oranges",
+      "frequency": 81.4,
+      "acceptance": 59.6,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "frequency": 79.2,
+      "acceptance": 50.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "IP to CIDR",
+      "slug": "ip-to-cidr",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/ip-to-cidr",
+      "frequency": 76.8,
+      "acceptance": 54.2,
+      "topics": [
+        "String",
+        "Bit Manipulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Flatten Nested List Iterator",
+      "slug": "flatten-nested-list-iterator",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "frequency": 74.1,
+      "acceptance": 65.9,
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Design",
+        "Queue",
+        "Iterator"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/simplify-path",
+      "frequency": 62.7,
+      "acceptance": 51.7,
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Largest Local Values in a Matrix",
+      "slug": "largest-local-values-in-a-matrix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
+      "frequency": 56.9,
+      "acceptance": 87.7,
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Excel Sum Formula",
+      "slug": "design-excel-sum-formula",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "frequency": 48.7,
+      "acceptance": 39.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Graph Theory",
+        "Design",
+        "Topological Sort",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "frequency": 48.7,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "frequency": 48.7,
+      "acceptance": 68.4,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Spreadsheet",
+      "slug": "design-spreadsheet",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-spreadsheet",
+      "frequency": 48.7,
+      "acceptance": 73.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Hit Counter",
+      "slug": "design-hit-counter",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "frequency": 48.7,
+      "acceptance": 69.8,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Authentication Manager",
+      "slug": "design-authentication-manager",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-authentication-manager",
+      "frequency": 48.7,
+      "acceptance": 58.9,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Snapshot Array",
+      "slug": "snapshot-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "frequency": 48.7,
+      "acceptance": 36.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design",
+        "Persistent Data Structure"
+      ],
+      "periods": []
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 48.7,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find Duplicate File in System",
+      "slug": "find-duplicate-file-in-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+      "frequency": 48.7,
+      "acceptance": 67.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

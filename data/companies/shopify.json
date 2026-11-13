@@ -1,0 +1,74 @@
+{
+  "name": "Shopify",
+  "slug": "shopify",
+  "domain": "shopify.com",
+  "logo": "/logos/shopify.png",
+  "questions": [
+    {
+      "title": "Walking Robot Simulation",
+      "slug": "walking-robot-simulation",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/walking-robot-simulation",
+      "frequency": 100,
+      "acceptance": 64.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 83.3,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Paint House",
+      "slug": "paint-house",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/paint-house",
+      "frequency": 69.9,
+      "acceptance": 64.6,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Encode and Decode TinyURL",
+      "slug": "encode-and-decode-tinyurl",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "frequency": 64.3,
+      "acceptance": 86.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Hash Function"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

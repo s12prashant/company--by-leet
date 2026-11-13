@@ -1,0 +1,170 @@
+{
+  "name": "Applied Intuition",
+  "slug": "applied-intuition",
+  "domain": "appliedintuition.com",
+  "logo": "/logos/applied-intuition.png",
+  "questions": [
+    {
+      "title": "Shortest Distance from All Buildings",
+      "slug": "shortest-distance-from-all-buildings",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "frequency": 100,
+      "acceptance": 45,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Duplicate File in System",
+      "slug": "find-duplicate-file-in-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+      "frequency": 74.6,
+      "acceptance": 67.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "frequency": 72.5,
+      "acceptance": 49.8,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Meeting Point",
+      "slug": "best-meeting-point",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/best-meeting-point",
+      "frequency": 67.4,
+      "acceptance": 61.5,
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minesweeper",
+      "slug": "minesweeper",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minesweeper",
+      "frequency": 60.1,
+      "acceptance": 69,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Ships in a Rectangle",
+      "slug": "number-of-ships-in-a-rectangle",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/number-of-ships-in-a-rectangle",
+      "frequency": 60.1,
+      "acceptance": 68.7,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Interactive"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 47.7,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "frequency": 47.7,
+      "acceptance": 55.7,
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+      "frequency": 47.7,
+      "acceptance": 52.3,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Game of Life",
+      "slug": "game-of-life",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/game-of-life",
+      "frequency": 47.7,
+      "acceptance": 73.1,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

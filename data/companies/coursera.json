@@ -1,0 +1,138 @@
+{
+  "name": "Coursera",
+  "slug": "coursera",
+  "domain": "coursera.com",
+  "logo": "/logos/coursera.png",
+  "questions": [
+    {
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/n-th-tribonacci-number",
+      "frequency": 100,
+      "acceptance": 63,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Increment to Make Array Unique",
+      "slug": "minimum-increment-to-make-array-unique",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+      "frequency": 100,
+      "acceptance": 60.9,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Reaching Points",
+      "slug": "reaching-points",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reaching-points",
+      "frequency": 97.3,
+      "acceptance": 34.8,
+      "topics": [
+        "Math",
+        "Euclidean Algorithm",
+        "Greatest Common Divisor"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Music Playlists",
+      "slug": "number-of-music-playlists",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/number-of-music-playlists",
+      "frequency": 97.3,
+      "acceptance": 60.2,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Highest Grade For Each Student",
+      "slug": "highest-grade-for-each-student",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+      "frequency": 97.3,
+      "acceptance": 71.2,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "frequency": 97.3,
+      "acceptance": 59.3,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/special-binary-string",
+      "frequency": 97.3,
+      "acceptance": 79.4,
+      "topics": [
+        "String",
+        "Divide and Conquer",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Rank Teams by Votes",
+      "slug": "rank-teams-by-votes",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/rank-teams-by-votes",
+      "frequency": 74.7,
+      "acceptance": 60.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/text-justification",
+      "frequency": 65.3,
+      "acceptance": 52.5,
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

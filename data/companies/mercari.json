@@ -1,0 +1,95 @@
+{
+  "name": "Mercari",
+  "slug": "mercari",
+  "domain": "mercari.com",
+  "logo": "/logos/mercari.png",
+  "questions": [
+    {
+      "title": "Crawler Log Folder",
+      "slug": "crawler-log-folder",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/crawler-log-folder",
+      "frequency": 100,
+      "acceptance": 71.7,
+      "topics": [
+        "Array",
+        "String",
+        "Stack"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Count Largest Group",
+      "slug": "count-largest-group",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-largest-group",
+      "frequency": 100,
+      "acceptance": 74.6,
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Smallest Missing Non-negative Integer After Operations",
+      "slug": "smallest-missing-non-negative-integer-after-operations",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+      "frequency": 100,
+      "acceptance": 55.7,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Subsequence in Non-Increasing Order",
+      "slug": "minimum-subsequence-in-non-increasing-order",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+      "frequency": 100,
+      "acceptance": 74.2,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Max Difference You Can Get From Changing an Integer",
+      "slug": "max-difference-you-can-get-from-changing-an-integer",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+      "frequency": 100,
+      "acceptance": 48.6,
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Design Underground System",
+      "slug": "design-underground-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-underground-system",
+      "frequency": 89.3,
+      "acceptance": 74.7,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

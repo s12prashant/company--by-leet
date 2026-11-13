@@ -1,0 +1,39 @@
+{
+  "name": "Tanium",
+  "slug": "tanium",
+  "domain": "tanium.com",
+  "logo": "/logos/tanium.png",
+  "questions": [
+    {
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/jump-game-iii",
+      "frequency": 100,
+      "acceptance": 70.5,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Only Letters",
+      "slug": "reverse-only-letters",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/reverse-only-letters",
+      "frequency": 80.6,
+      "acceptance": 69.3,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

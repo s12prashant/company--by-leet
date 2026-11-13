@@ -1,0 +1,64 @@
+{
+  "name": "Valve",
+  "slug": "valve",
+  "domain": "valvesoftware.com",
+  "logo": "/logos/valve.png",
+  "questions": [
+    {
+      "title": "Dota2 Senate",
+      "slug": "dota2-senate",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/dota2-senate",
+      "frequency": 100,
+      "acceptance": 50.7,
+      "topics": [
+        "String",
+        "Greedy",
+        "Queue"
+      ],
+      "periods": []
+    },
+    {
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "frequency": 90.2,
+      "acceptance": 21.9,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Deep Merge of Two Objects",
+      "slug": "deep-merge-of-two-objects",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+      "frequency": 71.2,
+      "acceptance": 62.8,
+      "topics": [],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Parking System",
+      "slug": "design-parking-system",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/design-parking-system",
+      "frequency": 71.2,
+      "acceptance": 87.2,
+      "topics": [
+        "Design",
+        "Simulation",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

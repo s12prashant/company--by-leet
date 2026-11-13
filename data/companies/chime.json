@@ -1,0 +1,64 @@
+{
+  "name": "Chime",
+  "slug": "chime",
+  "domain": "chime.com",
+  "logo": "/logos/chime.jpg",
+  "questions": [
+    {
+      "title": "Design Browser History",
+      "slug": "design-browser-history",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-browser-history",
+      "frequency": 100,
+      "acceptance": 78.6,
+      "topics": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "Design",
+        "Doubly-Linked List",
+        "Data Stream"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "frequency": 72.5,
+      "acceptance": 69.3,
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Detonate the Maximum Bombs",
+      "slug": "detonate-the-maximum-bombs",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+      "frequency": 59.3,
+      "acceptance": 50.5,
+      "topics": [
+        "Array",
+        "Math",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Geometry"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

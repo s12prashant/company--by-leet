@@ -1,0 +1,121 @@
+{
+  "name": "Optiver",
+  "slug": "optiver",
+  "domain": "optiver.com",
+  "logo": "/logos/optiver.png",
+  "questions": [
+    {
+      "title": "Design Skiplist",
+      "slug": "design-skiplist",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/design-skiplist",
+      "frequency": 100,
+      "acceptance": 59.7,
+      "topics": [
+        "Linked List",
+        "Design"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "frequency": 97.2,
+      "acceptance": 55.7,
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Order Management System",
+      "slug": "design-order-management-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-order-management-system",
+      "frequency": 88,
+      "acceptance": 79.3,
+      "topics": [
+        "Hash Table",
+        "Design"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Days Between Two Dates",
+      "slug": "number-of-days-between-two-dates",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/number-of-days-between-two-dates",
+      "frequency": 79.5,
+      "acceptance": 53.8,
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 71.1,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 71.1,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "frequency": 56.6,
+      "acceptance": 71.8,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

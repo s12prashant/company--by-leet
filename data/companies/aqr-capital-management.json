@@ -1,0 +1,57 @@
+{
+  "name": "AQR Capital Management",
+  "slug": "aqr-capital-management",
+  "domain": "aqr.com",
+  "logo": "/logos/aqr-capital-management.ico",
+  "questions": [
+    {
+      "title": "Jump Game VI",
+      "slug": "jump-game-vi",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/jump-game-vi",
+      "frequency": 100,
+      "acceptance": 46.6,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Queue",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+      "frequency": 65.6,
+      "acceptance": 62.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "frequency": 65.6,
+      "acceptance": 49.6,
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

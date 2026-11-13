@@ -1,0 +1,304 @@
+{
+  "name": "Deutsche Bank",
+  "slug": "deutsche-bank",
+  "domain": "db.com",
+  "logo": "/logos/deutsche-bank.png",
+  "questions": [
+    {
+      "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+      "slug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+      "frequency": 100,
+      "acceptance": 40.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Apply Operations to Maximize Frequency Score",
+      "slug": "apply-operations-to-maximize-frequency-score",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+      "frequency": 100,
+      "acceptance": 39.3,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Coins Heroes Can Collect",
+      "slug": "maximum-coins-heroes-can-collect",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-coins-heroes-can-collect",
+      "frequency": 97,
+      "acceptance": 68.9,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "The Time When the Network Becomes Idle",
+      "slug": "the-time-when-the-network-becomes-idle",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+      "frequency": 97,
+      "acceptance": 56.4,
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Graph Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Running Time of N Computers",
+      "slug": "maximum-running-time-of-n-computers",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers",
+      "frequency": 97,
+      "acceptance": 56.3,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Pour Water Between Buckets to Make Water Levels Equal",
+      "slug": "pour-water-between-buckets-to-make-water-levels-equal",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal",
+      "frequency": 97,
+      "acceptance": 68.1,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find the Maximum Sum of Node Values",
+      "slug": "find-the-maximum-sum-of-node-values",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+      "frequency": 97,
+      "acceptance": 69.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Tree",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Operations to Make the Array Increasing",
+      "slug": "minimum-operations-to-make-the-array-increasing",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing",
+      "frequency": 97,
+      "acceptance": 82.5,
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Operations to Collect Elements",
+      "slug": "minimum-operations-to-collect-elements",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+      "frequency": 97,
+      "acceptance": 62.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Different Ways to Add Parentheses",
+      "slug": "different-ways-to-add-parentheses",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+      "frequency": 79.4,
+      "acceptance": 73.8,
+      "topics": [
+        "Math",
+        "String",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "frequency": 72.1,
+      "acceptance": 58.1,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 61.8,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 61.8,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "frequency": 61.8,
+      "acceptance": 74.2,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "N-Queens II",
+      "slug": "n-queens-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/n-queens-ii",
+      "frequency": 61.8,
+      "acceptance": 79.5,
+      "topics": [
+        "Backtracking",
+        "Algorithm X"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/pascals-triangle",
+      "frequency": 61.8,
+      "acceptance": 79.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Split Array With Same Average",
+      "slug": "split-array-with-same-average",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/split-array-with-same-average",
+      "frequency": 61.8,
+      "acceptance": 27.7,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Meet in the Middle",
+        "Bitmask"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/coin-change",
+      "frequency": 61.8,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Knapsack Problem",
+        "Complete Knapsack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "frequency": 61.8,
+      "acceptance": 58.1,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": []
+    }
+  ]
+}

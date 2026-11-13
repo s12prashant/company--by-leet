@@ -1,0 +1,24 @@
+{
+  "name": "Sentry",
+  "slug": "sentry",
+  "domain": "sentry.io",
+  "logo": "/logos/sentry.png",
+  "questions": [
+    {
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/text-justification",
+      "frequency": 100,
+      "acceptance": 52.5,
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Liftoff",
+  "slug": "liftoff",
+  "domain": "liftoff.io",
+  "logo": "/logos/liftoff.png",
+  "questions": [
+    {
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/diagonal-traverse",
+      "frequency": 100,
+      "acceptance": 67.5,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Diagonal Traverse II",
+      "slug": "diagonal-traverse-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "frequency": 100,
+      "acceptance": 58.4,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "N-Queens II",
+      "slug": "n-queens-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/n-queens-ii",
+      "frequency": 100,
+      "acceptance": 79.5,
+      "topics": [
+        "Backtracking",
+        "Algorithm X"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Random Pick with Weight",
+      "slug": "random-pick-with-weight",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "frequency": 94.9,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

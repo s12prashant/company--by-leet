@@ -1,0 +1,36 @@
+{
+  "name": "Hotstar",
+  "slug": "hotstar",
+  "domain": "hotstar.com",
+  "logo": "/logos/hotstar.png",
+  "questions": [
+    {
+      "title": "Three Equal Parts",
+      "slug": "three-equal-parts",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/three-equal-parts",
+      "frequency": 100,
+      "acceptance": 41.9,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/house-robber",
+      "frequency": 71,
+      "acceptance": 53.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

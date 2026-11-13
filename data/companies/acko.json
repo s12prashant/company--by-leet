@@ -1,0 +1,68 @@
+{
+  "name": "Acko",
+  "slug": "acko",
+  "domain": "acko.com",
+  "logo": "/logos/acko.png",
+  "questions": [
+    {
+      "title": "Fill Missing Data",
+      "slug": "fill-missing-data",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/fill-missing-data",
+      "frequency": 100,
+      "acceptance": 72.8,
+      "topics": [],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count All Valid Pickup and Delivery Options",
+      "slug": "count-all-valid-pickup-and-delivery-options",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+      "frequency": 100,
+      "acceptance": 65,
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Parallel Courses III",
+      "slug": "parallel-courses-iii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/parallel-courses-iii",
+      "frequency": 89.2,
+      "acceptance": 66.8,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/invalid-tweets",
+      "frequency": 89.2,
+      "acceptance": 85.3,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

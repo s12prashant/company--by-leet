@@ -1,0 +1,71 @@
+{
+  "name": "Fortinet",
+  "slug": "fortinet",
+  "domain": "fortinet.com",
+  "logo": "/logos/fortinet.png",
+  "questions": [
+    {
+      "title": "Construct String With Repeat Limit",
+      "slug": "construct-string-with-repeat-limit",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "frequency": 100,
+      "acceptance": 70.7,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)",
+        "Counting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Percentage of Users Attended a Contest",
+      "slug": "percentage-of-users-attended-a-contest",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+      "frequency": 89.3,
+      "acceptance": 61.5,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Ways to Paint N × 3 Grid",
+      "slug": "number-of-ways-to-paint-n-3-grid",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+      "frequency": 89.3,
+      "acceptance": 80.6,
+      "topics": [
+        "Dynamic Programming",
+        "Graph Coloring"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "frequency": 89.3,
+      "acceptance": 44.9,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

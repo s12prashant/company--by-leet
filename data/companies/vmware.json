@@ -1,0 +1,82 @@
+{
+  "name": "VMware",
+  "slug": "vmware",
+  "domain": "vmware.com",
+  "logo": "/logos/vmware.png",
+  "questions": [
+    {
+      "title": "Break a Palindrome",
+      "slug": "break-a-palindrome",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/break-a-palindrome",
+      "frequency": 100,
+      "acceptance": 51.6,
+      "topics": [
+        "String",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find Palindrome With Fixed Length",
+      "slug": "find-palindrome-with-fixed-length",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-palindrome-with-fixed-length",
+      "frequency": 100,
+      "acceptance": 38.3,
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Make Array Non-decreasing or Non-increasing",
+      "slug": "make-array-non-decreasing-or-non-increasing",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing",
+      "frequency": 100,
+      "acceptance": 64.8,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "frequency": 68.5,
+      "acceptance": 50.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "frequency": 68.5,
+      "acceptance": 47.9,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

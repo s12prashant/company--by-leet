@@ -1,0 +1,35 @@
+{
+  "name": "SoundHound",
+  "slug": "soundhound",
+  "domain": "soundhound.com",
+  "logo": "/logos/soundhound.png",
+  "questions": [
+    {
+      "title": "Linked List in Binary Tree",
+      "slug": "linked-list-in-binary-tree",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/linked-list-in-binary-tree",
+      "frequency": 100,
+      "acceptance": 52.1,
+      "topics": [
+        "Linked List",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+      "frequency": 100,
+      "acceptance": 57.8,
+      "topics": [
+        "Array"
+      ],
+      "periods": []
+    }
+  ]
+}

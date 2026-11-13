@@ -1,0 +1,22 @@
+{
+  "name": "Veritas",
+  "slug": "veritas",
+  "domain": "veritas.com",
+  "logo": "/logos/veritas.png",
+  "questions": [
+    {
+      "title": "Shifting Letters II",
+      "slug": "shifting-letters-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shifting-letters-ii",
+      "frequency": 100,
+      "acceptance": 53.9,
+      "topics": [
+        "Array",
+        "String",
+        "Prefix Sum"
+      ],
+      "periods": []
+    }
+  ]
+}

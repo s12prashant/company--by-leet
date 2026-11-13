@@ -1,0 +1,61 @@
+{
+  "name": "Nordstrom",
+  "slug": "nordstrom",
+  "domain": "nordstrom.com",
+  "logo": "/logos/nordstrom.png",
+  "questions": [
+    {
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule",
+      "frequency": 100,
+      "acceptance": 52.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "frequency": 83,
+      "acceptance": 48.3,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Display Table of Food Orders in a Restaurant",
+      "slug": "display-table-of-food-orders-in-a-restaurant",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+      "frequency": 83,
+      "acceptance": 76.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Ordered Set"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

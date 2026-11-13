@@ -1,0 +1,95 @@
+{
+  "name": "thoughtspot",
+  "slug": "thoughtspot",
+  "domain": "thoughtspot.com",
+  "logo": "/logos/thoughtspot.png",
+  "questions": [
+    {
+      "title": "Count Paths That Can Form a Palindrome in a Tree",
+      "slug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
+      "frequency": 100,
+      "acceptance": 52.5,
+      "topics": [
+        "Hash Table",
+        "Bit Manipulation",
+        "Tree",
+        "Depth-First Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+      "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+      "frequency": 94.3,
+      "acceptance": 56,
+      "topics": [
+        "Array",
+        "Tree",
+        "Depth-First Search"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Selling Pieces of Wood",
+      "slug": "selling-pieces-of-wood",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/selling-pieces-of-wood",
+      "frequency": 87,
+      "acceptance": 53.3,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "frequency": 76.6,
+      "acceptance": 51.1,
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Team With No Conflicts",
+      "slug": "best-team-with-no-conflicts",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/best-team-with-no-conflicts",
+      "frequency": 76.6,
+      "acceptance": 51,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting",
+        "Longest Increasing Subsequence"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

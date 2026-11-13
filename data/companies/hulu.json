@@ -1,0 +1,76 @@
+{
+  "name": "Hulu",
+  "slug": "hulu",
+  "domain": "hulu.com",
+  "logo": "/logos/hulu.png",
+  "questions": [
+    {
+      "title": "Number of Valid Subarrays",
+      "slug": "number-of-valid-subarrays",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+      "frequency": 100,
+      "acceptance": 79.9,
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Basic Calculator III",
+      "slug": "basic-calculator-iii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "frequency": 100,
+      "acceptance": 53.6,
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Binary Tree Pruning",
+      "slug": "binary-tree-pruning",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/binary-tree-pruning",
+      "frequency": 100,
+      "acceptance": 72.6,
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Sum of Two Integers",
+      "slug": "sum-of-two-integers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/sum-of-two-integers",
+      "frequency": 100,
+      "acceptance": 55.7,
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "K-th Smallest in Lexicographical Order",
+      "slug": "k-th-smallest-in-lexicographical-order",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+      "frequency": 100,
+      "acceptance": 46.7,
+      "topics": [
+        "Trie"
+      ],
+      "periods": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "NCR",
+  "slug": "ncr",
+  "domain": "ncr.com",
+  "logo": "/logos/ncr.png",
+  "questions": [
+    {
+      "title": "Number of People Aware of a Secret",
+      "slug": "number-of-people-aware-of-a-secret",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "frequency": 100,
+      "acceptance": 60.6,
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimize Malware Spread",
+      "slug": "minimize-malware-spread",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimize-malware-spread",
+      "frequency": 89.8,
+      "acceptance": 43.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Design Authentication Manager",
+      "slug": "design-authentication-manager",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-authentication-manager",
+      "frequency": 89.8,
+      "acceptance": 58.9,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Faire",
+  "slug": "faire",
+  "domain": "faire.com",
+  "logo": "/logos/faire.png",
+  "questions": [
+    {
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/word-search",
+      "frequency": 100,
+      "acceptance": 48.3,
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "slug": "integer-to-english-words",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "frequency": 84.5,
+      "acceptance": 35.3,
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Split Message Based on Limit",
+      "slug": "split-message-based-on-limit",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/split-message-based-on-limit",
+      "frequency": 76.3,
+      "acceptance": 42.4,
+      "topics": [
+        "String",
+        "Enumeration"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Tag Validator",
+      "slug": "tag-validator",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/tag-validator",
+      "frequency": 70.6,
+      "acceptance": 41.9,
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "frequency": 70.6,
+      "acceptance": 49.4,
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Longest Mountain in Array",
+      "slug": "longest-mountain-in-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-mountain-in-array",
+      "frequency": 62.4,
+      "acceptance": 42.6,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Enumeration"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

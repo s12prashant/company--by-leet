@@ -1,0 +1,74 @@
+{
+  "name": "UBS",
+  "slug": "ubs",
+  "domain": "ubs.com",
+  "logo": "/logos/ubs.png",
+  "questions": [
+    {
+      "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+      "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+      "frequency": 100,
+      "acceptance": 56,
+      "topics": [
+        "Array",
+        "Tree",
+        "Depth-First Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Search Suggestions System",
+      "slug": "search-suggestions-system",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/search-suggestions-system",
+      "frequency": 84.6,
+      "acceptance": 65.2,
+      "topics": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "frequency": 78.2,
+      "acceptance": 73.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 69.2,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

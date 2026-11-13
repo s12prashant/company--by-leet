@@ -1,0 +1,323 @@
+{
+  "name": "Juspay",
+  "slug": "juspay",
+  "domain": "juspay.in",
+  "logo": "/logos/juspay.png",
+  "questions": [
+    {
+      "title": "Operations on Tree",
+      "slug": "operations-on-tree",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/operations-on-tree",
+      "frequency": 100,
+      "acceptance": 46.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Find Closest Node to Given Two Nodes",
+      "slug": "find-closest-node-to-given-two-nodes",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+      "frequency": 84.4,
+      "acceptance": 53.1,
+      "topics": [
+        "Depth-First Search",
+        "Graph Theory"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Subsequence With Decreasing Adjacent Difference",
+      "slug": "longest-subsequence-with-decreasing-adjacent-difference",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+      "frequency": 81,
+      "acceptance": 17.3,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Cycle in a Graph",
+      "slug": "longest-cycle-in-a-graph",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+      "frequency": 76.9,
+      "acceptance": 51.3,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Kosaraju's Algorithm",
+        "Tarjan's SCC Algorithm"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Node With Highest Edge Score",
+      "slug": "node-with-highest-edge-score",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/node-with-highest-edge-score",
+      "frequency": 74.6,
+      "acceptance": 49.8,
+      "topics": [
+        "Hash Table",
+        "Graph Theory"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Toggle Light Bulbs",
+      "slug": "toggle-light-bulbs",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/toggle-light-bulbs",
+      "frequency": 74.6,
+      "acceptance": 71.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "frequency": 68.7,
+      "acceptance": 49.4,
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue",
+        "Range Minimum/Maximum Query"
+      ],
+      "periods": [
+        "three-months",
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Number of Operations to Make Array Continuous",
+      "slug": "minimum-number-of-operations-to-make-array-continuous",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous",
+      "frequency": 68.7,
+      "acceptance": 51.7,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Sliding Window"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Largest Color Value in a Directed Graph",
+      "slug": "largest-color-value-in-a-directed-graph",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+      "frequency": 60.5,
+      "acceptance": 57.1,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Graph Theory",
+        "Topological Sort",
+        "Memoization",
+        "Counting",
+        "Directed Acyclic Graph"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Cost Homecoming of a Robot in a Grid",
+      "slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "frequency": 60.5,
+      "acceptance": 51.9,
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Shortest Path in a Weighted Tree",
+      "slug": "shortest-path-in-a-weighted-tree",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+      "frequency": 54.7,
+      "acceptance": 41.8,
+      "topics": [
+        "Array",
+        "Tree",
+        "Depth-First Search",
+        "Binary Indexed Tree",
+        "Segment Tree"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "frequency": 46.5,
+      "acceptance": 63.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Score From Removing Substrings",
+      "slug": "maximum-score-from-removing-substrings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+      "frequency": 46.5,
+      "acceptance": 66.4,
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/gas-station",
+      "frequency": 46.5,
+      "acceptance": 48.9,
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "frequency": 46.5,
+      "acceptance": 49.3,
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 46.5,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-product-subarray",
+      "frequency": 46.5,
+      "acceptance": 37.2,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "frequency": 46.5,
+      "acceptance": 61,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "frequency": 46.5,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": []
+    }
+  ]
+}

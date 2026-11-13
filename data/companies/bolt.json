@@ -1,0 +1,85 @@
+{
+  "name": "Bolt",
+  "slug": "bolt",
+  "domain": "bolt.eu",
+  "logo": "/logos/bolt.png",
+  "questions": [
+    {
+      "title": "Check if All Characters Have Equal Number of Occurrences",
+      "slug": "check-if-all-characters-have-equal-number-of-occurrences",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+      "frequency": 100,
+      "acceptance": 79.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 79.7,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "frequency": 71.4,
+      "acceptance": 48.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum String Length After Removing Substrings",
+      "slug": "minimum-string-length-after-removing-substrings",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings",
+      "frequency": 71.4,
+      "acceptance": 76.9,
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Get Watched Videos by Your Friends",
+      "slug": "get-watched-videos-by-your-friends",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+      "frequency": 71.4,
+      "acceptance": 54.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Sorting"
+      ],
+      "periods": []
+    }
+  ]
+}

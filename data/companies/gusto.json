@@ -1,0 +1,90 @@
+{
+  "name": "Gusto",
+  "slug": "gusto",
+  "domain": "gusto.com",
+  "logo": "/logos/gusto.png",
+  "questions": [
+    {
+      "title": "Integer to English Words",
+      "slug": "integer-to-english-words",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "frequency": 100,
+      "acceptance": 35.3,
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "frequency": 83.1,
+      "acceptance": 50.3,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Add Bold Tag in String",
+      "slug": "add-bold-tag-in-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/add-bold-tag-in-string",
+      "frequency": 77.9,
+      "acceptance": 51.5,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "String Matching",
+        "Aho–Corasick Algorithm"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Distribute Money to Maximum Children",
+      "slug": "distribute-money-to-maximum-children",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+      "frequency": 67.5,
+      "acceptance": 20.9,
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/house-robber",
+      "frequency": 51.1,
+      "acceptance": 53.7,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

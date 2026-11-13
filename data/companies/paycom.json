@@ -1,0 +1,23 @@
+{
+  "name": "Paycom",
+  "slug": "paycom",
+  "domain": "paycom.com",
+  "logo": "/logos/paycom.png",
+  "questions": [
+    {
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/minimum-absolute-difference",
+      "frequency": 100,
+      "acceptance": 75.2,
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

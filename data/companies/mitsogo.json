@@ -1,0 +1,153 @@
+{
+  "name": "Mitsogo",
+  "slug": "mitsogo",
+  "domain": "mitsogo.com",
+  "logo": "/logos/mitsogo.png",
+  "questions": [
+    {
+      "title": "Right Triangles",
+      "slug": "right-triangles",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/right-triangles",
+      "frequency": 100,
+      "acceptance": 48.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Combinatorics",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find the Integer Added to Array I",
+      "slug": "find-the-integer-added-to-array-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
+      "frequency": 97.2,
+      "acceptance": 82.9,
+      "topics": [
+        "Array"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Find the Integer Added to Array II",
+      "slug": "find-the-integer-added-to-array-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+      "frequency": 97.2,
+      "acceptance": 33.3,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Enumeration"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Substring Partition of Equal Character Frequency",
+      "slug": "minimum-substring-partition-of-equal-character-frequency",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+      "frequency": 97.2,
+      "acceptance": 40.6,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Construct String with Minimum Cost",
+      "slug": "construct-string-with-minimum-cost",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/construct-string-with-minimum-cost",
+      "frequency": 97.2,
+      "acceptance": 18.9,
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming",
+        "Suffix Array"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Total Reward Using Operations I",
+      "slug": "maximum-total-reward-using-operations-i",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-i",
+      "frequency": 97.2,
+      "acceptance": 31.2,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Total Reward Using Operations II",
+      "slug": "maximum-total-reward-using-operations-ii",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii",
+      "frequency": 97.2,
+      "acceptance": 22.1,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Shortest Subarray With OR at Least K II",
+      "slug": "shortest-subarray-with-or-at-least-k-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+      "frequency": 97.2,
+      "acceptance": 50.1,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Shortest Subarray With OR at Least K I",
+      "slug": "shortest-subarray-with-or-at-least-k-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+      "frequency": 97.2,
+      "acceptance": 44.9,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sliding Window"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Delayed Count of Equal Elements",
+      "slug": "delayed-count-of-equal-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/delayed-count-of-equal-elements",
+      "frequency": 97.2,
+      "acceptance": 77.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "periods": []
+    }
+  ]
+}

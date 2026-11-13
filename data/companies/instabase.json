@@ -1,0 +1,42 @@
+{
+  "name": "instabase",
+  "slug": "instabase",
+  "domain": "instabase.com",
+  "logo": "/logos/instabase.png",
+  "questions": [
+    {
+      "title": "Subarray With Elements Greater Than Varying Threshold",
+      "slug": "subarray-with-elements-greater-than-varying-threshold",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+      "frequency": 100,
+      "acceptance": 46.3,
+      "topics": [
+        "Array",
+        "Stack",
+        "Union-Find",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "frequency": 100,
+      "acceptance": 56.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

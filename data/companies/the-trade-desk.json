@@ -1,0 +1,102 @@
+{
+  "name": "The Trade Desk",
+  "slug": "the-trade-desk",
+  "domain": "thetradedesk.com",
+  "logo": "/logos/the-trade-desk.png",
+  "questions": [
+    {
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+      "frequency": 100,
+      "acceptance": 62.3,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/word-ladder",
+      "frequency": 78.3,
+      "acceptance": 46.8,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search",
+        "Bidirectional Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "frequency": 69.3,
+      "acceptance": 58.1,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "String Compression",
+      "slug": "string-compression",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/string-compression",
+      "frequency": 69.3,
+      "acceptance": 61,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Word Abbreviation",
+      "slug": "word-abbreviation",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/word-abbreviation",
+      "frequency": 69.3,
+      "acceptance": 62.8,
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Trie",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Unique Word Abbreviation",
+      "slug": "unique-word-abbreviation",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/unique-word-abbreviation",
+      "frequency": 69.3,
+      "acceptance": 28.1,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design"
+      ],
+      "periods": []
+    }
+  ]
+}

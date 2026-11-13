@@ -1,0 +1,64 @@
+{
+  "name": "Citrix",
+  "slug": "citrix",
+  "domain": "citrix.com",
+  "logo": "/logos/citrix.png",
+  "questions": [
+    {
+      "title": "Find All Groups of Farmland",
+      "slug": "find-all-groups-of-farmland",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/find-all-groups-of-farmland",
+      "frequency": 100,
+      "acceptance": 75.5,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+      "frequency": 100,
+      "acceptance": 74,
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+      "frequency": 100,
+      "acceptance": 61.6,
+      "topics": [
+        "String"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Maximum Performance of a Team",
+      "slug": "maximum-performance-of-a-team",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+      "frequency": 100,
+      "acceptance": 48.2,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": []
+    }
+  ]
+}

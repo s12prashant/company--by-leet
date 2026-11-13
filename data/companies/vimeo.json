@@ -1,0 +1,86 @@
+{
+  "name": "Vimeo",
+  "slug": "vimeo",
+  "domain": "vimeo.com",
+  "logo": "/logos/vimeo.png",
+  "questions": [
+    {
+      "title": "Count Pairs With XOR in a Range",
+      "slug": "count-pairs-with-xor-in-a-range",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+      "frequency": 100,
+      "acceptance": 46.9,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Trie"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Flower Planting With No Adjacent",
+      "slug": "flower-planting-with-no-adjacent",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+      "frequency": 70.6,
+      "acceptance": 54.4,
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Graph Coloring"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "frequency": 70.6,
+      "acceptance": 54,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/3sum",
+      "frequency": 70.6,
+      "acceptance": 40.1,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/min-stack",
+      "frequency": 70.6,
+      "acceptance": 58.8,
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

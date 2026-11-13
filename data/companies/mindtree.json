@@ -1,0 +1,49 @@
+{
+  "name": "MindTree",
+  "slug": "mindtree",
+  "domain": "ltimindtree.com",
+  "logo": "/logos/mindtree.png",
+  "questions": [
+    {
+      "title": "Count Integers With Even Digit Sum",
+      "slug": "count-integers-with-even-digit-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-integers-with-even-digit-sum",
+      "frequency": 100,
+      "acceptance": 71.1,
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Average Time of Process per Machine",
+      "slug": "average-time-of-process-per-machine",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+      "frequency": 70.8,
+      "acceptance": 67.1,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "frequency": 70.8,
+      "acceptance": 61,
+      "topics": [
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

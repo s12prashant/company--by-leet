@@ -1,0 +1,86 @@
+{
+  "name": "Alibaba",
+  "slug": "alibaba",
+  "domain": "alibaba.com",
+  "logo": "/logos/alibaba.png",
+  "questions": [
+    {
+      "title": "Split Array with Equal Sum",
+      "slug": "split-array-with-equal-sum",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/split-array-with-equal-sum",
+      "frequency": 100,
+      "acceptance": 49.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Split Concatenated Strings",
+      "slug": "split-concatenated-strings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/split-concatenated-strings",
+      "frequency": 100,
+      "acceptance": 43.5,
+      "topics": [
+        "Array",
+        "String",
+        "Greedy"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Path Sum IV",
+      "slug": "path-sum-iv",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/path-sum-iv",
+      "frequency": 100,
+      "acceptance": 62.8,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "frequency": 100,
+      "acceptance": 42.9,
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "frequency": 67.7,
+      "acceptance": 69.4,
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

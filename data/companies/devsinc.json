@@ -1,0 +1,21 @@
+{
+  "name": "Devsinc",
+  "slug": "devsinc",
+  "domain": "devsinc.com",
+  "logo": "/logos/devsinc.png",
+  "questions": [
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 100,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    }
+  ]
+}

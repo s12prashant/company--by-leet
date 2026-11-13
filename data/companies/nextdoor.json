@@ -1,0 +1,56 @@
+{
+  "name": "Nextdoor",
+  "slug": "nextdoor",
+  "domain": "nextdoor.com",
+  "logo": "/logos/nextdoor.png",
+  "questions": [
+    {
+      "title": "All O`one Data Structure",
+      "slug": "all-oone-data-structure",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/all-oone-data-structure",
+      "frequency": 100,
+      "acceptance": 44.7,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Compare Version Numbers",
+      "slug": "compare-version-numbers",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/compare-version-numbers",
+      "frequency": 95.3,
+      "acceptance": 47.1,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 92.6,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

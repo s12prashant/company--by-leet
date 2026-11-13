@@ -1,0 +1,306 @@
+{
+  "name": "Barclays",
+  "slug": "barclays",
+  "domain": "barclays.com",
+  "logo": "/logos/barclays.png",
+  "questions": [
+    {
+      "title": "Lexicographically Smallest Generated String",
+      "slug": "lexicographically-smallest-generated-string",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+      "frequency": 100,
+      "acceptance": 53.5,
+      "topics": [
+        "String",
+        "Greedy",
+        "String Matching"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Double Modular Exponentiation",
+      "slug": "double-modular-exponentiation",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/double-modular-exponentiation",
+      "frequency": 86.4,
+      "acceptance": 48.3,
+      "topics": [
+        "Array",
+        "Math",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Furthest Point From Origin",
+      "slug": "furthest-point-from-origin",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/furthest-point-from-origin",
+      "frequency": 84.2,
+      "acceptance": 76.9,
+      "topics": [
+        "String",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "frequency": 81.7,
+      "acceptance": 74.7,
+      "topics": [
+        "Array",
+        "Matrix",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Mark Elements on Array by Performing Queries",
+      "slug": "mark-elements-on-array-by-performing-queries",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+      "frequency": 81.7,
+      "acceptance": 49.4,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "frequency": 67.1,
+      "acceptance": 48.8,
+      "topics": [
+        "Database"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/partition-labels",
+      "frequency": 61,
+      "acceptance": 82.1,
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 61,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "frequency": 61,
+      "acceptance": 53,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 52.5,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "frequency": 52.5,
+      "acceptance": 65.3,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "frequency": 52.5,
+      "acceptance": 48.5,
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/next-greater-element-i",
+      "frequency": 52.5,
+      "acceptance": 77,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "frequency": 52.5,
+      "acceptance": 58.1,
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "slug": "minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+      "frequency": 52.5,
+      "acceptance": 57.3,
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Remove Boxes",
+      "slug": "remove-boxes",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "frequency": 52.5,
+      "acceptance": 49.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Design an ATM Machine",
+      "slug": "design-an-atm-machine",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/design-an-atm-machine",
+      "frequency": 52.5,
+      "acceptance": 46.6,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Design"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+      "frequency": 52.5,
+      "acceptance": 62,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Maximum Employees to Be Invited to a Meeting",
+      "slug": "maximum-employees-to-be-invited-to-a-meeting",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+      "frequency": 52.5,
+      "acceptance": 61.8,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Kosaraju's Algorithm",
+        "Tarjan's SCC Algorithm"
+      ],
+      "periods": []
+    }
+  ]
+}

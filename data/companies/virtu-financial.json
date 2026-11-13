@@ -1,0 +1,151 @@
+{
+  "name": "Virtu Financial",
+  "slug": "virtu-financial",
+  "domain": "virtu.com",
+  "logo": "/logos/virtu-financial.png",
+  "questions": [
+    {
+      "title": "Array Transformation",
+      "slug": "array-transformation",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/array-transformation",
+      "frequency": 100,
+      "acceptance": 53.9,
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "How Many Apples Can You Put into the Basket",
+      "slug": "how-many-apples-can-you-put-into-the-basket",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+      "frequency": 97.4,
+      "acceptance": 67,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count Substrings with Only One Distinct Letter",
+      "slug": "count-substrings-with-only-one-distinct-letter",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+      "frequency": 92.8,
+      "acceptance": 81,
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Hexspeak",
+      "slug": "hexspeak",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/hexspeak",
+      "frequency": 92.8,
+      "acceptance": 57.9,
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Count Number of Homogenous Substrings",
+      "slug": "count-number-of-homogenous-substrings",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+      "frequency": 91,
+      "acceptance": 57.3,
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Optimal Account Balancing",
+      "slug": "optimal-account-balancing",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/optimal-account-balancing",
+      "frequency": 74.8,
+      "acceptance": 50.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "periods": [
+        "thirty-days",
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "frequency": 64.2,
+      "acceptance": 45.3,
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    },
+    {
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/is-subsequence",
+      "frequency": 55.9,
+      "acceptance": 49.5,
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Reaching Points",
+      "slug": "reaching-points",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/reaching-points",
+      "frequency": 55.9,
+      "acceptance": 34.8,
+      "topics": [
+        "Math",
+        "Euclidean Algorithm",
+        "Greatest Common Divisor"
+      ],
+      "periods": [
+        "six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "DevRev",
+  "slug": "devrev",
+  "domain": "devrev.ai",
+  "logo": "/logos/devrev.png",
+  "questions": [
+    {
+      "title": "Shortest Subarray with Sum at Least K",
+      "slug": "shortest-subarray-with-sum-at-least-k",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k",
+      "frequency": 100,
+      "acceptance": 33.3,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Prefix Sum",
+        "Monotonic Queue"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum",
+      "frequency": 72,
+      "acceptance": 58,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "LFU Cache",
+      "slug": "lfu-cache",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/lfu-cache",
+      "frequency": 72,
+      "acceptance": 50.5,
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Maximum Subsequence Score",
+      "slug": "maximum-subsequence-score",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/maximum-subsequence-score",
+      "frequency": 72,
+      "acceptance": 55.1,
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    },
+    {
+      "title": "Count Square Submatrices with All Ones",
+      "slug": "count-square-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+      "frequency": 72,
+      "acceptance": 80.9,
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "periods": [
+        "three-months",
+        "six-months"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bosch",
+  "slug": "bosch",
+  "domain": "bosch.com",
+  "logo": "/logos/bosch.png",
+  "questions": [
+    {
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "frequency": 100,
+      "acceptance": 61,
+      "topics": [
+        "Math"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

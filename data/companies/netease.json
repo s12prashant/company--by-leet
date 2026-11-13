@@ -1,0 +1,39 @@
+{
+  "name": "NetEase",
+  "slug": "netease",
+  "domain": "163.com",
+  "logo": "/logos/netease.png",
+  "questions": [
+    {
+      "title": "Strange Printer",
+      "slug": "strange-printer",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/strange-printer",
+      "frequency": 100,
+      "acceptance": 61,
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Most Profit Assigning Work",
+      "slug": "most-profit-assigning-work",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/most-profit-assigning-work",
+      "frequency": 95.6,
+      "acceptance": 56.4,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Greedy",
+        "Sorting"
+      ],
+      "periods": []
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "name": "Robinhood",
+  "slug": "robinhood",
+  "domain": "robinhood.com",
+  "logo": "/logos/robinhood.png",
+  "questions": [
+    {
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "frequency": 100,
+      "acceptance": 60.7,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Ways to Split Array Into Three Subarrays",
+      "slug": "ways-to-split-array-into-three-subarrays",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "frequency": 95.3,
+      "acceptance": 34.7,
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Prefix Sum"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Restore the Array From Adjacent Pairs",
+      "slug": "restore-the-array-from-adjacent-pairs",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+      "frequency": 95.3,
+      "acceptance": 75.2,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Depth-First Search"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Brightest Position on Street",
+      "slug": "brightest-position-on-street",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/brightest-position-on-street",
+      "frequency": 92.6,
+      "acceptance": 60.7,
+      "topics": [
+        "Array",
+        "Sorting",
+        "Prefix Sum",
+        "Ordered Set"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Count Good Meals",
+      "slug": "count-good-meals",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/count-good-meals",
+      "frequency": 92.6,
+      "acceptance": 33.3,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Number of Orders in the Backlog",
+      "slug": "number-of-orders-in-the-backlog",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "frequency": 92.6,
+      "acceptance": 54.8,
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Check if There is a Valid Path in a Grid",
+      "slug": "check-if-there-is-a-valid-path-in-a-grid",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+      "frequency": 92.6,
+      "acceptance": 64.5,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Capital Gain/Loss",
+      "slug": "capital-gainloss",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/capital-gainloss",
+      "frequency": 92.6,
+      "acceptance": 84.7,
+      "topics": [
+        "Database"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Count the Number of Consistent Strings",
+      "slug": "count-the-number-of-consistent-strings",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+      "frequency": 92.6,
+      "acceptance": 88.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Counting"
+      ],
+      "periods": []
+    },
+    {
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "difficulty": "Hard",
+      "link": "https://leetcode.com/problems/text-justification",
+      "frequency": 89.5,
+      "acceptance": 52.5,
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "periods": [
+        "six-months",
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Minesweeper",
+      "slug": "minesweeper",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/minesweeper",
+      "frequency": 76.5,
+      "acceptance": 69,
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "frequency": 76.5,
+      "acceptance": 67.6,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Employee Importance",
+      "slug": "employee-importance",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/employee-importance",
+      "frequency": 69.8,
+      "acceptance": 69.9,
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "frequency": 60.4,
+      "acceptance": 57.5,
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    },
+    {
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/defanging-an-ip-address",
+      "frequency": 60.4,
+      "acceptance": 90.2,
+      "topics": [
+        "String"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}

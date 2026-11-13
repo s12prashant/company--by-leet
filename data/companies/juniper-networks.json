@@ -1,0 +1,23 @@
+{
+  "name": "Juniper Networks",
+  "slug": "juniper-networks",
+  "domain": "juniper.net",
+  "logo": "/logos/juniper-networks.ico",
+  "questions": [
+    {
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "link": "https://leetcode.com/problems/combination-sum",
+      "frequency": 100,
+      "acceptance": 77.3,
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "periods": [
+        "more-than-six-months"
+      ]
+    }
+  ]
+}
