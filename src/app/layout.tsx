@@ -12,9 +12,29 @@ import "./globals.css";
 const geistSans = Geist({ variable: "--font-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
+const SITE_URL = "https://company-by-leet.vercel.app";
+const SITE_TITLE = "CompanyLeet: Solve LeetCode questions company-wise";
+const SITE_DESCRIPTION =
+  "Practise the exact LeetCode questions Google, Amazon, Meta and 400+ companies ask in interviews. Track progress, streaks, bookmarks and notes.";
+
 export const metadata: Metadata = {
-  title: { default: "CompanyLeet: LeetCode questions by company", template: "%s · CompanyLeet" },
-  description: "Company-wise LeetCode interview questions with progress tracking, streaks, bookmarks and notes.",
+  metadataBase: new URL(SITE_URL),
+  title: { default: SITE_TITLE, template: "%s · CompanyLeet" },
+  description: SITE_DESCRIPTION,
+  applicationName: "CompanyLeet",
+  openGraph: {
+    type: "website",
+    url: "/",
+    siteName: "CompanyLeet",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    locale: "en_US",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
